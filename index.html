@@ -1,82 +1,50 @@
-<!DOCTYPE html>
+---
+layout: default
+title: "Mighty Blog Homepage"
+navigationName: "Homepage"
+description: "A clean blog powered by awesome Jekyll"
+coverImg: "home-bg.jpg"
+order: 1
+---
+<!-- group: "navigation" -->
 
-
-<html>
-<head>
-	<title>Homepage</title>
-	<link rel = 'stylesheet' type = 'text/css' href = 'css/style.css' />
-</head>
-<body><!--[if IE]>
-        <style type = "text/css">
-            .spacer32ie { height: 0; }
-
-            #PageFooter #LeftFooter { width:288px !important; float: left; background: #A4A4A4; }
-        </style>
-        <![endif]-->
-        <div id="PageContainer" style="box-shadow:0 0 16px #888888;">
-            <div style="background: none repeat scroll 0% 0% rgb(255, 255, 255);" id="Header">
-                <div id="LogoImage"></div>
-                <div id="LogoText" style="height:100px;margin-top:16px;"><span class="Blue">Itauma Itauma</span> <span class="Gray Italic">MSc.</span></div>
-                <div id="NavigationLinks">
-                    <div class="NavigationLinks"><a href="#">Home</a></div>
-                    <div class="NavigationLinks"><a href="#">Gallery</a></div>
-                    <div class="NavigationLinks"><a href="https://opensuny.digication.com/academic_succe/About_Me/" alt='portfolio'>Portfolio</a></div>
-                    <div class="NavigationLinks"><a href="resources.html">Resources</a></div>
-                </div>
+<!-- Main Content -->
+<div class="container">
+    <div class="row">
+        <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+            {% for post in paginator.posts %}
+                <div class="post-preview">
+                <a href="{{post.url | prepend: site.url}}">
+                    <h2 class="post-title">
+                        {{post.title}}
+                    </h2>
+                    <h3 class="post-subtitle">
+                        {{post.description}}
+                    </h3>
+                </a>
+                <p class="post-meta">Posted by <a href="#">{{post.author}}</a> on {{post.date | date_to_string}}</p>
             </div>
-            <div id="Splash">
-                <div id="ImageLogo"></div>
-                <div id="WelcomeBackground">
-                    <div id="PresentationText">
-                        <div class="spacer32ie"></div>
-                        <h1>Big Data exploration using HPCC</h1>
-                        <p>High Performance Computing Cluster developed by LexisNexis.</p>                        
-                        <p>The only constant thing is change.</p>
-                    </div>
-                </div>
-            </div>
-            <div class="Clear"></div>
-            <div id="PageBody" style="margin-bottom:0; padding-bottom:22px;">
-                <div id="LeftSidebar">
-                    <div class="Padding">
-                        <h2>Helpful Navigation Links</h2>
-                        <p>Silence is one of the hardest things to refute. (Josh Billings).</p>
-                        <p>Make the world a better place.</p>
-                        <p>Opportunities? They are all around us...there is power lying latent everywhere waiting for the observant eye to discover it. (Orison Swett Marden)</p>
-                        <p>The Grail Message is a guide to life, knowledge and the after life</p>
-                    </div>
-                </div>
-                <div id="PageContent">
-                    <div class="Padding">
-                        <h2>My Background</h2>
-                        <p>I was born in Calabar, Nigeria. I have an undergraduate degree in Electrical Engineering from University of Ilorin. I also have an MSc. in Computer Engineering from Istanbul Technical University. I am currently an MSc. student and a Graduate Research Assistant in Computer Science at Wayne State University. My interests lie in Robotics and Big Data. At this time, my research is based on leveraging High Performance Computing Clusters (HPCC) for Large-Scale Image Analysis to solve Big Data problems under the supervision of Professor Xuewen Chen.</p>
-                        <div style="height:32px;"></div>
-                        <h2>Activities</h2>
-                        <p>Exploring the world around me.</p>
-                    </div>
-                </div>
-            </div>
-            <div class="Clear"></div>
-            <div id="PageFooter" style="">
-                <div id="LeftFooter" style="">
-                    <div class="Padding">
-                        <a href="#">Privacy Policy</a> - <a href="#">Terms of Use</a> - <a href="https://twitter.com/amightyo">Contact Me</a>
-                    </div>
-                </div>
-                <div id="FooterContent">
-                    <div class="Padding">
-                    2015 Copyright Comforters by amightyo
-                    </div>
-                </div>
-                <div class="Clear"></div>
-            </div>
+            <hr>
+            {% endfor %}
+                     
+            <!-- Pager -->
+            {% if paginator.total_pages > 1 %}
+            <ul class="pager">
+                {% if paginator.previous_page > 1%}
+                <li class="previous">
+                    <a href="{{paginator.previous_page_path | prepend: site.url | replace: '//', '/'}}">&larr; Prev Posts</a>
+                </li>
+                {% endif %}
+                {% if paginator.next_pages > 1%}
+                <li class="{{paginator.next_page_path | prepend: site.url | replace: '//', '/'}}">
+                    <a href="#">Older Posts &rarr;</a>
+                </li>
+                {% endif %}
+            </ul>
+            {% endif %}
         </div>
-        <div class = "Creators">
-        		<p>Seek and ye shall find. Welcome to amightyo's website</p>
-        </div>
+    </div>
+</div>
 
-        <script type="text/javascript">var _gaq = _gaq || [];_gaq.push(['_setAccount', 'UA-838075-57']);_gaq.push(['_trackPageview']); (function() { var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true; ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js'; var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s); })();
-        </script>
+<hr>
 
-</body>
-</html>

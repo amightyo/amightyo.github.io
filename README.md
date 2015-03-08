@@ -1,2 +1,2 @@
-# amightyo.github.io
-For a better World! :)
+# mightyblog
+Embracing the world around me.

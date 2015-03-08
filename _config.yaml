@@ -1,0 +1,9 @@
+# Build settings
+markdown: kramdown
+encoding: utf-8
+highlighter: pygments
+
+paginate: 5
+
+gems:
+ - jekyll-sitemap
