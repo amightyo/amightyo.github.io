@@ -5,5 +5,5 @@ highlighter: pygments
 
 paginate: 5
 
-gems:
- - jekyll-sitemap
+url: "http://www.amightyo.tk"
+baseurl: ""
