@@ -7,3 +7,24 @@ paginate: 5
 
 url: "http://www.amightyo.tk"
 baseurl: ""
+
+
+gallery:
+  # path to the gallery
+  dir: photos
+  # title for gallery index
+  title: "Photos"
+  # title prefix for gallery page. title=title_prefix+gallery_name
+  title_prefix: "Photos: "
+  # field to control sorting of galleries for the index page
+  # (possible values are: title, date_time, best_image)
+  sort_field: "date_time"
+  # sizes for thumbnails
+  thumbnail_size:
+    x: 400
+    y: 400
+  # custom configuration for individual gallery
+  # best_image is image for the index page (defaults to last image)
+  galleries:
+    Experience_Vomperberg_Dec2014:
+      best_image: IMG_5389.JPG
