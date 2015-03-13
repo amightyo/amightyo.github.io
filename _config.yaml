@@ -1,5 +1,5 @@
 # Build settings
-markdown: kramdown
+markdown: redcarpet
 encoding: utf-8
 highlighter: pygments
 
@@ -7,7 +7,7 @@ paginate: 5
 
 url: "http://www.amightyo.tk"
 baseurl: ""
-
+exclude: ['README.md']
 
 gallery:
   # path to the gallery
