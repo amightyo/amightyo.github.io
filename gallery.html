@@ -3,7 +3,7 @@ layout: default
 title: "Experience Vomperberg"
 navigationName: "Gallery"
 description: "Spread Beauty"
-coverImg: "home-bg.png"
+coverImg: "contact-bg.jpg"
 group: "navigation"
 order: 4
 ---
@@ -11,4 +11,23 @@ order: 4
 
 
 
-{% image_set img/Experience_Vomperberg_Dec2014 --class=img-responsive --container-tag=div --wrap-tag=div %}
+
+
+<!-- Main Content -->
+
+
+
+<article>
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+            <p>Vomperberg December 2014</p>
+                {% gallery galleryname %}
+				Experience_Vomperberg_Dec2014/
+				{% endgallery %}
+            </div>
+        </div>
+    </div>
+</article>
+
+<hr>

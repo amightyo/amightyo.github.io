@@ -26,7 +26,7 @@ $(function() {
                 firstName = name.split(' ').slice(0, -1).join(' ');
             }
             $.ajax({
-                url: "//formspree.io/oitauma@outlook.com",
+                url: "//formspree.io/itauma.itauma@wayne.edu",
                 type: "POST",
                 data: {
                     name: name,
