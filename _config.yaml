@@ -16,6 +16,3 @@ gallerytag:
     thumb_height: 150
     columns: 4                     # set to 0 and a <ul> list will be generated
     custom_attribute_name: data-lightbox
-
-gems:
-  - jekyll-mentions
