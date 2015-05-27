@@ -2,11 +2,11 @@
 layout: post
 coverImg: "post-bg.jpg"
 title: "Implement a Gravitational Clustering Module in ECL Language"
-subtitle: "Google Summer of Code 2015"
+subtitle: "TechEdge International"
 author: Itauma Itauma
 date: March 17, 2015
 geometry: margin=1in
-description: "This project is sponsored by HPCC Systems and mentored by John Holt"
+description: "Work in progress..."
 ---
 
 ## Abstract
@@ -34,7 +34,7 @@ HPCC Systems provide an open source platform for Big Data processing. It has an 
 
 ## Time-line
 
-- 3 Weeks.
+- 3 Months.
 
 
 ## Proposed Algorithm
