@@ -23,16 +23,51 @@ description: "Grand Circus mock class"
 - The secret of the Black-Box.  
 
 ## Mock outline  
-- Getting to know you!  
-- Introduce yourself to your partners.  
-- Basic concepts.  
-- Mock Labs (Blockly).  
-- Running your first Java program (Codeboard) without installing an IDE.  
+- Getting to know you! (2mins)  
+- Introduce yourself to your partners (Kahoot!). (3mins)  
+- Mock Labs (Blockly). (15mins)  
+- Basic concepts.   (20mins)  
+- Running your first Java program (Codeboard) without installing an IDE. (10mins)  
+- Mock Quiz (Kahoot!). (10mins)
 
 ### Mock Labs  
 - Explore the maze working in groups. (Are you ready?) 
+- [Maze Explorers][blockly]. "**Games for tomorrow's programmers**".
 
-### Class project
+[blockly]: https://blockly-games.appspot.com/
+
+### Basic concepts in JAVA
+- OOP
+- WORA (Platform independent)
+- Runs on several electronic devices worldwide
+
+### The Development Cycle
+
+<center>
+[<img src="{{ site.baseurl }}/img/developmentCycle.jpg" alt="The Development Cycle" style="width: 900px;"/>]({{ site.baseurl }}/)
+
+Any device with a JVM can translate and understand the object file
+</center>
+
+
+### Creating a Project using Codeboard
+
+### Beyond Hello World
+
+### Java Comments
+
+### Variables
+
+### Primitive operators
+
+### Increment Operators
+
+### Strings
+
+### Getting User Input
+
+
+### Mock Quiz
 
 
 
