@@ -24,11 +24,13 @@ description: "Grand Circus mock class"
 
 ## Mock outline  
 - Getting to know you! (2mins)  
-- Introduce yourself to your partners (Kahoot!). (3mins)  
+- Introduce yourself to your partners [(Kahoot!)][kahoot]. (3mins)  
 - Mock Labs (Blockly). (15mins)  
 - Basic concepts.   (20mins)  
-- Running your first Java program (Codeboard) without installing an IDE. (10mins)  
+- Running your first Java program in the cloud (Codeboard) without installing an IDE. (10mins)  
 - Mock Quiz (Kahoot!). (10mins)
+
+
 
 ### Mock Labs  
 - Explore the maze working in groups. (Are you ready?) 
@@ -50,25 +52,29 @@ Any device with a JVM can translate and understand the object file
 </center>
 
 
-### Creating a Project using Codeboard
+### Creating a Project using Codeboard (Programming in the Cloud)
 
-### Beyond Hello World
+- [**"A web-based IDE to teach programming in the classroom"**][codeboard].
 
-### Java Comments
+[codeboard]: https://codeboard.io/
 
-### Variables
-
-### Primitive operators
-
-### Increment Operators
-
-### Strings
-
-### Getting User Input
+- **_Beyond Hello World, Java Comments, Variables Primitive operators, Increment Operators, Strings, Getting User Input_**
 
 
 ### Mock Quiz
 
+- Back to [Kahoot!][kahoot]
+- **Hands on challenge** > Implement a method using codeboard in Java that converts from Fahrenheit to Celsius and from Celsius to Fahrenheit respectively. These methods takes in a parameter as input and returns the result. The variables passed to the methods should be initialized in your main method (_you may also ask the user for the input_). The results from these methods should be printed out in your main method.
 
+[kahoot]: https://play.kahoot.it/#/k/c6c236eb-952f-400b-81ca-c0bf70ad8cb9
 
-**Learning Java is fun!**
+***
+>**Learning Java is fun!**  
+>**If you want to be a programmer then you have to learn to think like one!**  
+<code>
+// life motto  
+if (sad() == true) {  
+    sad().stop();  
+    beAwesome();  
+}  
+</code>
