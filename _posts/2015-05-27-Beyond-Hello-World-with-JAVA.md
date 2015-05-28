@@ -64,7 +64,7 @@ Any device with a JVM can translate and understand the object file
 ### Mock Quiz
 
 - Back to [Kahoot!][kahoot]
-- **Hands on challenge** > Implement a method using codeboard in Java that converts from Fahrenheit to Celsius and from Celsius to Fahrenheit respectively. These methods takes in a parameter as input and returns the result. The variables passed to the methods should be initialized in your main method (_you may also ask the user for the input_). The results from these methods should be printed out in your main method.
+- **Hands on challenge** > Implement a method using codeboard in Java that converts from Fahrenheit to Celsius and from Celsius to Fahrenheit respectively. These methods take in a parameter as input and return the results. The variables passed to the methods should be initialized in your main method (_you may also ask the user for the input_). The results from these methods should be printed out in your main method.
 
 [kahoot]: https://play.kahoot.it/#/k/c6c236eb-952f-400b-81ca-c0bf70ad8cb9
 
