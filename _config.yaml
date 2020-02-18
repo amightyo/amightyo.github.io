@@ -1,11 +1,11 @@
 # Build settings
-markdown: redcarpet
+markdown: kramdown
 encoding: utf-8
 highlighter: pygments
 
 paginate: 5
 
-url: "http://www.amightyo.tk"
+url: "https://amightyo.github.io"
 baseurl: ""
 exclude: ['README.md']
 
