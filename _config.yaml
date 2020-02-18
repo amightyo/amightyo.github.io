@@ -1,7 +1,7 @@
 # Build settings
 markdown: kramdown
 encoding: utf-8
-highlighter: pygments
+highlighter: rouge
 
 paginate: 5
 
