@@ -9,3 +9,12 @@ With over a decade of experience in higher education, I have cultivated a dynami
 I am passionate about the intersection of education, technology, and leadership. Whether it’s on the pickleball court or the ice rink, my extracurricular pursuits have shaped my approach to teaching and mentoring. Both sports demand strategic thinking, agility, and resilience—qualities I bring to my work life. These activities teach me how to remain adaptable, foster collaboration, and continually strive for improvement, principles I apply to guiding students and colleagues toward academic and professional success.
 
 Looking ahead, my research interests focus on the application of machine learning and analytics in higher education, particularly in improving student outcomes and institutional effectiveness. As I aspire to take on greater leadership roles, such as Dean of Academics or Vice President of Academics, my goal is to inspire a new generation of leaders in academia and beyond. I am open to collaborations on research projects, innovative curriculum design, and leadership initiatives that drive meaningful change in the educational landscape. Let's connect and explore how we can shape the future of education together!
+
+## My Skills
+### Technical Skills
+
+{% include technicalskills.md %}
+
+### Soft Skills
+
+{% include softskills.md %}
