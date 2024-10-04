@@ -1,4 +1,3 @@
-
 ---
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
@@ -8,7 +7,7 @@ author_profile: true
 author: Dr. Mighty Itauma Itauma
 ---
 
-![Mighty avatar](https://placehold.co/400){: .avatar} 
+![Dr. Mighty Itauma Itauma](/assets/images/DrItaumaHeadshotNU.jpg){: .avatar} 
 
 # Hello! I'm Dr. Mighty Itauma Itauma. 
 I am a professor of analytics, division chair, mentor, curriculum developer, researcher, and aspiring academic leader. Check out some of my favorite articles and projects below or go to [**My Work**](/mywork) or [**My Writing**](/mywriting) to see a categorized list.
