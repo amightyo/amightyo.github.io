@@ -4,7 +4,7 @@
 
 layout: home
 author_profile: true
-author: Dr. Mighty Itauma Itauma
+author: Itauma Itauma
 ---
 
 ![Dr. Mighty Itauma Itauma](/assets/images/DrItaumaHeadshotNU.jpg){: .avatar} 
