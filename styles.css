@@ -1,0 +1,543 @@
+/* =========================================================
+   GLOBAL
+   ========================================================= */
+
+body {
+  font-size: 1.05rem;
+  line-height: 1.75;
+}
+
+main {
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+p {
+  max-width: 78ch;
+}
+
+h1,
+h2,
+h3 {
+  letter-spacing: -0.02em;
+}
+
+h1 {
+  font-weight: 800;
+}
+
+h2 {
+  margin-top: 3.5rem;
+  margin-bottom: 1.4rem;
+  font-weight: 750;
+}
+
+h3 {
+  font-weight: 700;
+}
+
+a {
+  text-underline-offset: 4px;
+}
+
+
+/* =========================================================
+   NAVIGATION
+   ========================================================= */
+
+.navbar {
+  padding-top: 0.9rem;
+  padding-bottom: 0.9rem;
+  border-bottom: 1px solid rgba(0, 0, 0, 0.08);
+}
+
+.navbar-brand {
+  font-size: 1.2rem;
+  font-weight: 800;
+  letter-spacing: -0.02em;
+}
+
+.navbar-nav .nav-link {
+  font-weight: 500;
+}
+
+
+/* =========================================================
+   HERO
+   ========================================================= */
+
+.hero-section {
+  max-width: 1250px;
+  margin: 0 auto;
+  padding: 5rem 2rem 5rem 2rem;
+}
+
+.hero-content {
+  display: grid;
+  grid-template-columns: 1.25fr 0.75fr;
+  gap: 4rem;
+  align-items: center;
+}
+
+.hero-text {
+  text-align: left;
+}
+
+.hero-text h1 {
+  font-size: clamp(3rem, 6vw, 5rem);
+  line-height: 1.05;
+  font-weight: 800;
+  margin-bottom: 1rem;
+}
+
+.hero-text h2 {
+  font-size: clamp(1.25rem, 2vw, 1.65rem);
+  font-weight: 500;
+  line-height: 1.4;
+  margin-top: 0;
+  margin-bottom: 1.8rem;
+}
+
+.hero-text p {
+  font-size: 1.15rem;
+  max-width: 700px;
+}
+
+.hero-buttons {
+  margin-top: 2rem;
+}
+
+.hero-buttons .btn {
+  margin: 0.35rem 0.35rem 0.35rem 0;
+  padding: 0.75rem 1.2rem;
+  border-radius: 999px;
+  font-weight: 600;
+}
+
+.hero-image {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.hero-image img {
+  width: 100%;
+  max-width: 380px;
+  aspect-ratio: 1 / 1;
+  object-fit: cover;
+  object-position: center;
+  border-radius: 24px;
+  box-shadow: 0 20px 45px rgba(0, 0, 0, 0.16);
+}
+
+
+/* =========================================================
+   PROFESSIONAL PROFILE LINKS
+   ========================================================= */
+
+.profile-links {
+  text-align: center;
+  padding: 0 1rem 4rem 1rem;
+  font-weight: 600;
+}
+
+.profile-links p {
+  max-width: none;
+}
+
+.profile-links a {
+  display: inline-block;
+  margin: 0.3rem 0.7rem;
+  text-decoration: none;
+}
+
+
+/* =========================================================
+   CARD LAYOUTS
+   ========================================================= */
+
+.grid {
+  gap: 1.4rem;
+}
+
+.grid > div {
+  padding: 1.7rem;
+}
+
+.g-col-md-6,
+.g-col-md-4 {
+  border: 1px solid rgba(0, 0, 0, 0.08);
+  border-radius: 16px;
+  transition:
+    transform 0.2s ease,
+    box-shadow 0.2s ease;
+}
+
+.g-col-md-6:hover,
+.g-col-md-4:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 12px 28px rgba(0, 0, 0, 0.08);
+}
+
+
+/* =========================================================
+   SECTION SPACING
+   ========================================================= */
+
+.quarto-container section {
+  margin-bottom: 2rem;
+}
+
+hr {
+  margin-top: 4rem;
+  margin-bottom: 4rem;
+  opacity: 0.15;
+}
+
+
+/* =========================================================
+   BLOCKQUOTES
+   ========================================================= */
+
+blockquote {
+  font-size: 1.2rem;
+  font-weight: 500;
+  border-left-width: 4px;
+  padding: 1rem 1.5rem;
+  margin: 2rem 0;
+}
+
+
+/* =========================================================
+   INSIGHT LAB
+   ========================================================= */
+
+.insight-highlight {
+  padding: 3rem;
+  margin: 3rem 0;
+  border-radius: 20px;
+  text-align: center;
+}
+
+.insight-highlight h2 {
+  margin-top: 0;
+}
+
+
+/* =========================================================
+   PROJECT STATUS LABELS
+   ========================================================= */
+
+.project-status {
+  display: inline-block;
+  padding: 0.25rem 0.75rem;
+  border-radius: 999px;
+  font-size: 0.85rem;
+  font-weight: 700;
+  border: 1px solid rgba(0, 0, 0, 0.15);
+}
+
+
+/* =========================================================
+   CV AND PROFILE BUTTONS
+   ========================================================= */
+
+.btn {
+  border-radius: 999px;
+  font-weight: 600;
+}
+
+
+/* =========================================================
+   FOOTER
+   ========================================================= */
+
+.nav-footer {
+  margin-top: 5rem;
+  padding-top: 2.5rem;
+  padding-bottom: 2rem;
+  border-top: 1px solid rgba(0, 0, 0, 0.08);
+}
+
+
+/* =========================================================
+   MOBILE
+   ========================================================= */
+
+@media (max-width: 768px) {
+
+  body {
+    font-size: 1rem;
+  }
+
+  .hero-section {
+    padding: 3rem 1.25rem;
+  }
+
+  .hero-content {
+    grid-template-columns: 1fr;
+    gap: 2.5rem;
+  }
+
+  .hero-text {
+    text-align: center;
+  }
+
+  .hero-text h1 {
+    font-size: 3rem;
+  }
+
+  .hero-text h2 {
+    font-size: 1.25rem;
+  }
+
+  .hero-text p {
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .hero-buttons .btn {
+    display: block;
+    width: 100%;
+    max-width: 300px;
+    margin: 0.7rem auto;
+  }
+
+  .hero-image {
+    order: -1;
+  }
+
+  .hero-image img {
+  max-width: 280px;
+  }
+
+  .profile-links a {
+    display: block;
+    margin: 0.7rem 0;
+  }
+
+  .grid > div {
+    padding: 1.3rem;
+  }
+}
+
+/* =========================================================
+   RESEARCH CARDS
+   ========================================================= */
+
+.research-grid,
+.project-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 1.5rem;
+  margin-top: 2rem;
+}
+
+.research-card,
+.project-card {
+  padding: 2rem;
+  border: 1px solid rgba(0, 0, 0, 0.08);
+  border-radius: 18px;
+  background: rgba(255, 255, 255, 0.7);
+  transition:
+    transform 0.2s ease,
+    box-shadow 0.2s ease;
+}
+
+.research-card:hover,
+.project-card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 14px 32px rgba(0, 0, 0, 0.09);
+}
+
+.research-card h3,
+.project-card h3 {
+  margin-top: 0.5rem;
+  margin-bottom: 1rem;
+}
+
+.research-card p,
+.project-card p {
+  max-width: none;
+}
+
+.research-card a,
+.project-card a {
+  font-weight: 600;
+  text-decoration: none;
+}
+
+.project-grid {
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+}
+
+.project-label {
+  display: inline-block;
+  padding: 0.3rem 0.75rem;
+  margin-bottom: 0.6rem;
+  border-radius: 999px;
+  font-size: 0.8rem;
+  font-weight: 700;
+  border: 1px solid rgba(0, 0, 0, 0.15);
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+}
+
+
+/* Mobile card layout */
+
+@media (max-width: 768px) {
+
+  .research-grid,
+  .project-grid {
+    grid-template-columns: 1fr;
+  }
+
+}
+
+/* =========================================================
+   INSIGHT LAB VISUAL IDENTITY
+   ========================================================= */
+
+.insight-highlight {
+  padding: 3.5rem;
+  margin: 4rem 0;
+  border-radius: 24px;
+  text-align: center;
+  background:
+    linear-gradient(
+      135deg,
+      rgba(15, 23, 42, 0.96),
+      rgba(30, 41, 59, 0.94)
+    );
+  color: white;
+  box-shadow: 0 18px 40px rgba(15, 23, 42, 0.18);
+}
+
+.insight-highlight h2,
+.insight-highlight h3,
+.insight-highlight p,
+.insight-highlight blockquote {
+  color: white;
+}
+
+.insight-highlight h2 {
+  font-size: clamp(2.3rem, 5vw, 4rem);
+  margin-top: 0;
+  margin-bottom: 0.5rem;
+}
+
+.insight-highlight h3 {
+  font-size: 1.2rem;
+  font-weight: 500;
+  opacity: 0.92;
+  margin-bottom: 1.5rem;
+}
+
+.insight-highlight blockquote {
+  border-left: none;
+  font-size: 1.35rem;
+  font-weight: 700;
+  margin: 2rem auto;
+  padding: 0;
+}
+
+.insight-highlight a {
+  display: inline-block;
+  margin-top: 1rem;
+  padding: 0.8rem 1.4rem;
+  border: 1px solid rgba(255, 255, 255, 0.65);
+  border-radius: 999px;
+  color: white;
+  text-decoration: none;
+  font-weight: 700;
+}
+
+.insight-highlight a:hover {
+  background: rgba(255, 255, 255, 0.12);
+}
+
+
+/* INSIGHT Lab page masthead */
+
+.insight-masthead {
+  padding: 5rem 2rem;
+  margin-bottom: 3rem;
+  border-radius: 24px;
+  text-align: center;
+  background:
+    linear-gradient(
+      135deg,
+      rgba(15, 23, 42, 0.98),
+      rgba(30, 41, 59, 0.95)
+    );
+  color: white;
+}
+
+.insight-masthead h1,
+.insight-masthead h2,
+.insight-masthead p,
+.insight-masthead blockquote {
+  color: white;
+}
+
+.insight-masthead h1 {
+  font-size: clamp(3rem, 7vw, 5.5rem);
+  margin-bottom: 0.5rem;
+}
+
+.insight-masthead h2 {
+  font-size: 1.3rem;
+  font-weight: 500;
+  margin-top: 0;
+}
+
+.insight-masthead blockquote {
+  border-left: none;
+  font-size: 1.4rem;
+  font-weight: 700;
+  margin-top: 2rem;
+  padding: 0;
+}
+
+
+/* INSIGHT pillars */
+
+.insight-pillar-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 1.5rem;
+  margin-top: 2rem;
+}
+
+.insight-pillar {
+  padding: 2rem;
+  border-radius: 18px;
+  border: 1px solid rgba(0, 0, 0, 0.08);
+  background: rgba(255, 255, 255, 0.72);
+  transition:
+    transform 0.2s ease,
+    box-shadow 0.2s ease;
+}
+
+.insight-pillar:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 14px 32px rgba(0, 0, 0, 0.09);
+}
+
+.insight-pillar h3 {
+  margin-top: 0;
+}
+
+@media (max-width: 768px) {
+
+  .insight-highlight,
+  .insight-masthead {
+    padding: 2.5rem 1.25rem;
+  }
+
+  .insight-pillar-grid {
+    grid-template-columns: 1fr;
+  }
+
+}
