@@ -1,0 +1,392 @@
+---
+title: "Curriculum Vitae"
+page-layout: full
+---
+
+# Curriculum Vitae
+
+## Dr. Itauma Itauma
+
+**Data Scientist | Professor | Researcher | Academic Leader**
+
+Associate Professor of Data Science and Analytics  
+Harrisburg University of Science and Technology
+
+[Download Résumé (PDF)](files/Itauma_Itauma_Resume.pdf){.btn .btn-primary}
+
+[Google Scholar](https://scholar.google.com/citations?user=v0-zAJkAAAAJ&hl=en){.btn .btn-outline-primary}
+[ORCID](https://orcid.org/0009-0000-8835-5292){.btn .btn-outline-primary}
+[LinkedIn](https://www.linkedin.com/in/amightyo/){.btn .btn-outline-primary}
+
+---
+
+## Academic Appointments
+
+### Associate Professor of Data Science and Analytics
+
+**Harrisburg University of Science and Technology**
+2026–Present
+
+Teaching, research, doctoral mentorship, and interdisciplinary scholarship in data science, analytics, artificial intelligence, and advanced quantitative methods.
+
+Current academic responsibilities include:
+
+* Teaching **ANLY 735 – Research Seminar in Predictive AI**
+* Doctoral mentorship through **ANLY 799 – Doctoral Studies**
+* Developing an interdisciplinary research program in artificial intelligence and analytics
+* Supporting doctoral and graduate research
+* Advancing reproducible and collaborative research practices
+
+---
+
+### Faculty / Division Chair / Assistant Professor of Analytics
+
+**Northwood University**
+2020–2026
+
+* Led curriculum coordination, faculty collaboration, and program assessment initiatives
+* Supported graduate programs across analytics, business, and doctoral education
+* Contributed to enrollment management, student retention, and continuous improvement
+* Mentored faculty and graduate students
+* Supervised doctoral dissertation research
+* Taught graduate and doctoral courses in analytics, artificial intelligence, leadership, and business decision-making
+* Supported strategic academic and operational initiatives
+
+---
+
+### Data Science Consultant
+
+**LearningMate**
+2025
+
+* Collaborated with interdisciplinary teams to develop data-informed digital learning solutions
+* Supported AI-enabled educational tools and workflows aligned with student learning outcomes
+* Contributed to program assessment and continuous improvement initiatives
+
+---
+
+### Faculty, Department of Computer Science
+
+**Wayne State University**
+2016–2020
+
+* Delivered instruction in data analytics, SQL, programming, and machine learning
+* Guided student projects involving data analysis, database systems, and predictive modeling
+* Conducted research using large datasets and high-performance computing
+
+---
+
+### Faculty / Technical Program Facilitator, Data Analytics & Data Science
+
+**Southern New Hampshire University**
+2016–2019
+
+* Taught courses in data analytics, SQL, and business intelligence
+* Supported development of data-driven decision-making skills
+* Contributed to applied analytics and industry-aligned curriculum
+
+---
+
+### Graduate Teaching & Research Assistant
+
+**Wayne State University, Department of Computer Science**
+2013–2015
+
+* Conducted machine learning and image-analysis research using high-performance computing clusters
+* Supported instruction and assessment in computer science courses and laboratories
+
+---
+
+## Education
+
+### Executive Master of Business Administration
+
+**Quantic School of Business and Technology**
+2025
+
+Focus areas included strategic leadership, organizational management, operations, and data-driven decision-making.
+
+---
+
+### Data Science Fellow
+
+**University of Pennsylvania Center for Learning Analytics**
+2025
+
+Certificate in Data Science Methods for Digital Learning Platforms.
+
+Program supported by the Institute of Education Sciences, U.S. Department of Education.
+
+---
+
+### Harvard Business Analytics Program
+
+**Harvard University**
+2020
+
+Executive Graduate Certificate in Business Analytics.
+
+Areas of study included digital strategy, quantitative analysis, leadership, data science systems, and data-driven marketing.
+
+---
+
+### PhD in Instructional Design and Technology
+
+**Keiser University**
+2019
+
+**Dissertation:** *Pre-College Factors That Predict Intentions of Minority Females to Enroll in College STEM Programs*
+
+Graduated with a 4.0 GPA.
+
+---
+
+### Master of Science in Computer Science
+
+**Wayne State University**
+2015
+
+**Focus:** Big Data Analytics
+
+**Thesis:** *Unsupervised Learning and Image Classification in High-Performance Computing Clusters*
+
+---
+
+### Master of Science in Computer Engineering
+
+**Istanbul Technical University**
+2012
+
+**Focus:** Human–Robot Interaction
+
+**Thesis:** *Gesture Imitation Learning in Human-Robot Interaction*
+
+---
+
+### Bachelor of Engineering in Electrical Engineering
+
+**University of Ilorin**
+2004
+
+**Concentration:** Computer and Control Engineering
+
+**Thesis:** *Microprocessor Driven Traffic Light for a Dual Cross-Junction Road*
+
+---
+
+## Research Areas
+
+My research program is organized around four interconnected streams:
+
+### AI, Data Science & Education
+
+Artificial intelligence · Predictive AI · Generative AI · Agentic AI · AI literacy · Human–AI collaboration · Learning analytics
+
+### Health & Wellness Analytics
+
+Health informatics · Sleep · Physical activity · Metabolic health · Psychological wellness · Epidemiology · Population health
+
+### Advanced Quantitative Methods
+
+Structural equation modeling · Bayesian statistics · Machine learning · Predictive modeling · Meta-analysis · Multivariate analysis
+
+### Science of Research & Emerging AI
+
+Bibliometrics · Research synthesis · Open science · Reproducible research · Retrieval-augmented generation · Agentic AI
+
+[Explore My Research →](research.qmd)
+
+---
+
+## Academic Leadership
+
+My academic leadership experience includes:
+
+* Graduate program leadership
+* Curriculum development and assessment
+* Faculty mentorship and evaluation
+* Student success and retention
+* Strategic planning
+* Enrollment management
+* Program review and quality improvement
+* Dissertation chairing and supervision
+* Interdisciplinary collaboration
+* Data-informed decision-making
+
+---
+
+## Doctoral Mentorship
+
+### Dissertation Chair
+
+**DeVos Graduate School of Management, Northwood University**
+2023–Present
+
+Mentored doctoral researchers in:
+
+* Research problem development
+* Literature review
+* Theoretical framework development
+* Research alignment
+* Quantitative methodology
+* Statistical analysis
+* Scholarly writing
+* Dissertation defense preparation
+* Conference presentation
+* Publication development
+
+### Doctoral Scholar
+
+**Dr. Shemika S. Miller**
+
+Dissertation:
+
+*Miller, S. S. (2024). A systematic review and meta-analysis of the impact of leader-member exchange (LMX) quality on employee turnover intentions [Doctoral dissertation, Northwood University].*
+
+[View Dissertation on ProQuest](https://www.proquest.com/openview/9ea639844d6013c44f21d91ce9facba6/1?pq-origsite=gscholar&cbl=18750&diss=y)
+
+[Explore My Mentorship Approach →](mentorship.qmd)
+
+---
+
+## Selected Peer-Reviewed Publications
+
+### Srikanth, S., & Itauma, I. (2025)
+
+Transforming project management through data analytics and generative AI. *Empirical Economics Letters, 24*(September Special Issue 1), 93–109.
+
+[View Publication](https://doi.org/10.5281/zenodo.18866470)
+
+---
+
+### Itauma, O., & Itauma, I. (2024)
+
+AI scribes: Boosting physician efficiency in clinical documentation. *International Journal on Bioinformatics & Biosciences, 14*(1), 9–18.
+
+[View Publication](https://doi.org/10.5121/ijbb.2024.14102)
+
+---
+
+### Itauma, O., Abara, C., Gonullu, D., Fee, M., Itauma, I., & Awonuga, A. (2020)
+
+Contraceptive choices by weight status among women in the United States: An analysis of the 2015–2017 National Survey of Family Growth. *Fertility and Sterility, 114*(3), e173–e174.
+
+[View Full Publications →](publications.qmd)
+
+---
+
+## Books & Scholarly Contributions
+
+### Machine Learning Using Python
+
+**Itauma, I. (2024).**
+
+An applied introduction to machine learning using Python.
+
+---
+
+### Unsupervised Learning and Image Classification in High-Performance Computing Clusters
+
+**Itauma, I., Aslan, M. S., Chen, X. W., & Villanustre, F. (2016).**
+
+In *Big Data Technologies and Applications* (pp. 387–400). Springer International.
+
+---
+
+## Selected Conference Leadership & Service
+
+### American Educational Research Association
+
+**Chair, AERA Annual Meeting — 2026**
+
+Session: *Teacher Leadership, Wellbeing, and Retention*
+
+**Discussant, AERA Annual Meeting — 2026**
+
+Session: *Preparing Future Educators in the Age of AI*
+
+---
+
+### International Business Analytics Conference
+
+**Moderator — 2024**
+
+Track: Analytics in Business Education
+
+[View Talks & Service →](talks.qmd)
+
+---
+
+## Selected Presentations
+
+* *Technology Integration for Diverse Learners: Enhancing Engagement and Accessibility* — RCEP UNESCO Symposium, 2024
+* *Factors Predicting Mathematics and Science Motivation among Minority Female High School Students* — AERA Annual Meeting, 2024
+* *Leveraging Large Language Models for Predictive Analytics and Code Generation Using ChatGPT and Gemini API* — International Business Analytics Conference, 2024
+* *Data Management & Analytics Simplified for the New Normal in the Health System* — Hospital Data Management & Analytics Conference, 2020
+* *Conducting Exploratory Data Analysis in Educational Research Using HPCC Systems* — HPCC Systems Engineering Summit, 2018
+* *Unsupervised Learning and Image Classification in High Performance Computing Clusters* — HPCC Systems Engineering Summit, 2016
+
+[View Talks & Service →](talks.qmd)
+
+---
+
+## Technical & Analytical Skills
+
+### Programming & Data
+
+Python · R · SQL · SAS · Stata
+
+### Statistical & Analytical Tools
+
+JASP · Jamovi · SAS · Stata · R
+
+### Visualization & Business Intelligence
+
+Power BI · Tableau · Excel
+
+### Research & Reproducibility
+
+Git · GitHub · Quarto · OSF
+
+### Research Synthesis
+
+OpenAlex · Bibliometrix · VOSviewer
+
+---
+
+## Awards & Recognition
+
+* **Learning Analytics in STEM Education Research (LASER) Scholar**, National Science Foundation — 2023
+* **Certificate of Appreciation**, Northwood University — 2023
+* **Harvard Business Analytics Program Certificate of Excellence** — 2020
+* **HPCC Systems Community Innovator** — 2015–2020
+* **Best Reviewer**, CS Student Workshop, Istanbul — 2011
+* **Bilateral Education Scholarship**, Nigerian Government — 2007–2012
+
+---
+
+## Languages
+
+**English** — Native
+**Turkish** — Highly proficient
+**German** — Proficient
+
+---
+
+## Professional Profiles
+
+[Google Scholar](https://scholar.google.com/citations?user=v0-zAJkAAAAJ&hl=en)
+
+[ORCID](https://orcid.org/0009-0000-8835-5292)
+
+[GitHub](https://github.com/amightyo/amightyo)
+
+[LinkedIn](https://www.linkedin.com/in/amightyo/)
+
+[ResearchGate](https://www.researchgate.net/profile/Itauma-Itauma)
+
+[Harrisburg University](https://www.harrisburgu.edu/about/our-people/faculty-staff/)
+
+---
+
+[Download Résumé (PDF)](files/Itauma_Itauma_Resume.pdf){.btn .btn-primary}

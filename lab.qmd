@@ -1,0 +1,246 @@
+---
+title: "INSIGHT Lab"
+page-layout: full
+---
+
+::: {.insight-masthead}
+
+# INSIGHT Lab
+
+## Interdisciplinary Network for Science, Intelligence, Growth, Health & Technology
+
+> **Turning data into insight. Turning insight into impact.**
+
+The INSIGHT Lab is an emerging interdisciplinary research initiative focused on advancing human-centered applications of **data science, artificial intelligence, health analytics, education, and advanced quantitative methods**.
+
+:::
+
+
+## Our Mission
+
+The mission of the INSIGHT Lab is to advance interdisciplinary research that connects data, artificial intelligence, and quantitative methods with meaningful human and societal challenges.
+
+The lab seeks to:
+
+- Conduct rigorous and impactful interdisciplinary research
+- Advance responsible and human-centered applications of artificial intelligence
+- Develop reproducible and transparent research workflows
+- Support doctoral students and emerging researchers
+- Promote collaboration across disciplines, institutions, and sectors
+- Translate analytical findings into actionable knowledge
+- Create opportunities for students to participate in research, publication, and scholarly dissemination
+
+---
+
+## Research Pillars
+
+::: {.insight-pillar-grid}
+
+::: {.insight-pillar}
+
+### Artificial Intelligence & Intelligent Systems
+
+Research on predictive AI, generative AI, agentic AI, retrieval-augmented generation, human--AI collaboration, trust, explainability, responsible AI, and AI-supported decision-making.
+
+:::
+
+::: {.insight-pillar}
+
+### Learning & Education Analytics
+
+Research on AI literacy, learning analytics, student engagement, academic success, technology-enhanced learning, and responsible AI use in education.
+
+:::
+
+::: {.insight-pillar}
+
+### Health & Wellness Analytics
+
+Research applying data science and advanced analytics to sleep, physical activity, psychological wellness, population health, epidemiology, and health informatics.
+
+:::
+
+::: {.insight-pillar}
+
+### Methods, Evidence & Open Science
+
+Research advancing structural equation modeling, Bayesian methods, meta-analysis, bibliometrics, predictive modeling, reproducibility, and open science.
+
+:::
+
+:::
+
+---
+
+## Current and Emerging Research Directions
+
+The INSIGHT Lab is designed to support a portfolio of interconnected research projects rather than a single narrow research agenda.
+
+Current and emerging areas of interest include:
+
+### Human--AI Decision-Making
+
+Examining how individuals and organizations interact with artificial intelligence when making decisions, including questions related to trust, explainability, uncertainty, accountability, and decision quality.
+
+### AI Attitudes and Adoption
+
+Investigating the individual, psychological, organizational, and contextual factors that shape attitudes toward artificial intelligence and influence AI adoption.
+
+### Retrieval-Augmented Generation and Emerging AI
+
+Studying the evolution, research landscape, applications, and methodological development of retrieval-augmented generation and other emerging AI systems.
+
+### Health and Wellness Analytics
+
+Using public health and population datasets to investigate relationships among sleep, physical activity, psychological wellness, metabolic risk, and other health outcomes.
+
+### Reproducible Bibliometric Research
+
+Developing transparent and reusable workflows that integrate tools such as OpenAlex, R, Bibliometrix, VOSviewer, and computational text analysis.
+
+### Research Synthesis and Meta-Analysis
+
+Synthesizing evidence across studies to better understand complex relationships in artificial intelligence, education, health, and organizational research.
+
+---
+
+## Doctoral Research and Mentorship
+
+A central goal of the INSIGHT Lab is to create opportunities for doctoral students and emerging scholars to develop as independent researchers.
+
+Students affiliated with the lab may have opportunities to participate in:
+
+- Research design and theory development
+- Literature reviews and evidence synthesis
+- Data collection and secondary data analysis
+- Advanced statistical modeling
+- Machine learning and AI research
+- Bibliometric and meta-analytic studies
+- Reproducible research workflows
+- Conference presentations
+- Manuscript development
+- Open science and research dissemination
+
+The lab will encourage doctoral researchers to move beyond completing individual studies toward developing broader programs of scholarship.
+
+[Learn More About Doctoral Mentorship →](mentorship.qmd)
+
+---
+
+## A Reproducible Research Philosophy
+
+The INSIGHT Lab is committed to research practices that make scholarship more transparent, reliable, and reusable.
+
+Where appropriate, projects will emphasize:
+
+- Pre-registration of research questions and analytical plans
+- Transparent documentation of research decisions
+- Version control using Git and GitHub
+- Reproducible analytical workflows
+- Open-source statistical tools
+- Public code repositories
+- Open Science Framework project documentation
+- Clear reporting of methods and limitations
+- Responsible and transparent use of artificial intelligence
+
+Research workflows may incorporate tools such as **R, Python, Quarto, GitHub, JASP, Jamovi, Stata, SAS, Power BI, OpenAlex, Bibliometrix, and VOSviewer**, depending on the needs of each project.
+
+---
+
+## Collaboration
+
+Complex problems rarely belong to a single discipline.
+
+The INSIGHT Lab is envisioned as a collaborative environment that brings together researchers with interests in:
+
+- Data science
+- Artificial intelligence
+- Computer science
+- Education
+- Health and wellness
+- Public health
+- Business and organizational research
+- Learning analytics
+- Quantitative methodology
+- Research synthesis
+
+Future collaborations may include faculty researchers, doctoral students, graduate students, industry professionals, healthcare researchers, educational institutions, and international research partners.
+
+---
+
+## Opportunities for Students
+
+One of the long-term goals of the INSIGHT Lab is to create meaningful pathways for students to participate in research.
+
+### Doctoral Researchers
+
+Developing dissertation research while participating in broader research programs and collaborative scholarship.
+
+### Graduate Research Assistants
+
+Supporting data analysis, literature synthesis, research programming, and scholarly dissemination.
+
+### Student Research Collaborators
+
+Contributing to faculty-led or interdisciplinary projects with opportunities for conference presentations and publications.
+
+### Independent Research Projects
+
+Developing open-source analytical projects that demonstrate advanced research and data science skills.
+
+As the lab develops, specific opportunities and active projects will be posted here.
+
+---
+
+## Research Outputs
+
+INSIGHT Lab research will aim to contribute through multiple forms of scholarly and public impact, including:
+
+- Peer-reviewed journal articles
+- Conference presentations
+- Open-source analytical workflows
+- Public datasets and code
+- Research tutorials
+- Evidence syntheses
+- Bibliometric studies
+- Meta-analyses
+- Research software and tools
+- Student-led scholarship
+
+[View Publications →](publications.qmd)
+
+[Explore Research Projects →](projects.qmd)
+
+---
+
+## Building the Lab
+
+The INSIGHT Lab represents a long-term vision for building an interdisciplinary research community around data, artificial intelligence, and human-centered inquiry.
+
+As the initiative grows, this page will evolve to include:
+
+- Lab members
+- Doctoral researchers
+- Student research assistants
+- Faculty collaborators
+- External research partners
+- Active projects
+- Publications
+- Research resources
+- Open positions and collaboration opportunities
+
+The goal is to build a research environment where methodological rigor, intellectual curiosity, collaboration, and mentorship come together.
+
+---
+
+## Interested in Collaborating?
+
+I welcome opportunities to connect with researchers, doctoral students, and collaborators whose interests intersect with the mission of the INSIGHT Lab.
+
+Potential areas for collaboration include artificial intelligence, data science, health analytics, education, research synthesis, quantitative methodology, and reproducible research.
+
+[Explore My Research →](research.qmd)
+
+[View My Projects →](projects.qmd)
+
+[Connect on LinkedIn](https://www.linkedin.com/in/amightyo/)

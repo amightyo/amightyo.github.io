@@ -1,7 +1,183 @@
 ---
-title: "Dr. Itauma Itauma"
+title: ""
+page-layout: full
 ---
 
-This is a Quarto website.
+::: {.hero-section}
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+::: {.hero-content}
+
+::: {.hero-text}
+
+# Dr. Itauma Itauma
+
+## Data Scientist · Professor · Researcher · Academic Leader
+
+**Associate Professor of Data Science and Analytics**  
+Harrisburg University of Science and Technology
+
+I study how **data, artificial intelligence, and advanced analytical methods** can be used to generate better evidence, support better decisions, and improve outcomes across education, health, and human-centered systems.
+
+::: {.hero-buttons}
+
+[Explore My Research](research.qmd){.btn .btn-primary .btn-lg}
+[INSIGHT Lab](lab.qmd){.btn .btn-outline-primary .btn-lg}
+[Teaching](teaching.qmd){.btn .btn-outline-primary .btn-lg}
+[View CV](cv.qmd){.btn .btn-outline-primary .btn-lg}
+
+:::
+
+:::
+
+::: {.hero-image}
+
+![](images/itauma-itauma-headshot.jpeg){fig-alt="Professional portrait of Dr. Itauma Itauma"}
+
+:::
+
+:::
+
+:::
+
+::: {.profile-links}
+
+[Google Scholar](https://scholar.google.com/citations?user=v0-zAJkAAAAJ&hl=en)  
+[ORCID](https://orcid.org/0009-0000-8835-5292)  
+[LinkedIn](https://www.linkedin.com/in/amightyo/)  
+[GitHub](https://github.com/amightyo/amightyo)  
+[ResearchGate](https://www.researchgate.net/profile/Itauma-Itauma)  
+[Harrisburg University](https://www.harrisburgu.edu/about/our-people/faculty-staff/)
+
+:::
+
+## Research Areas
+
+::: {.research-grid}
+
+::: {.research-card}
+
+### AI, Data Science & Education
+
+Understanding how artificial intelligence and data science shape learning, decision-making, human behavior, and educational outcomes.
+
+**Focus areas:** AI literacy · Predictive AI · Generative AI · Human--AI collaboration · Learning analytics
+
+[Explore Research →](research.qmd)
+
+:::
+
+::: {.research-card}
+
+### Health & Wellness Analytics
+
+Using data and advanced analytics to investigate health behaviors, population health, and wellness outcomes.
+
+**Focus areas:** Sleep · Physical activity · Metabolic health · Psychological wellness · Health informatics
+
+[Explore Research →](research.qmd)
+
+:::
+
+::: {.research-card}
+
+### Advanced Quantitative Methods
+
+Applying rigorous statistical and computational approaches to complex research questions.
+
+**Focus areas:** SEM · Bayesian statistics · Machine learning · Meta-analysis · Predictive modeling
+
+[Explore Research →](research.qmd)
+
+:::
+
+::: {.research-card}
+
+### Science of Research & Emerging AI
+
+Studying how knowledge is created, synthesized, reproduced, and transformed by emerging AI technologies.
+
+**Focus areas:** Bibliometrics · Open science · Reproducibility · RAG · Agentic AI
+
+[Explore Research →](research.qmd)
+
+:::
+
+:::
+
+::: {.insight-highlight}
+
+## INSIGHT Lab
+
+### Interdisciplinary Network for Science, Intelligence, Growth, Health & Technology
+
+> **Turning data into insight. Turning insight into impact.**
+
+The emerging INSIGHT Lab brings together research in artificial intelligence, data science, education, health analytics, and advanced quantitative methods.
+
+The vision is to create a collaborative research community where faculty, doctoral students, graduate researchers, and external partners can pursue rigorous, reproducible, and human-centered scholarship.
+
+[Explore the INSIGHT Lab →](lab.qmd)
+
+:::
+
+## Teaching & Doctoral Mentorship
+
+### ANLY 735 – Research Seminar in Predictive AI
+
+A research-centered seminar exploring current developments in machine learning and predictive artificial intelligence, with emphasis on scholarly literature, critical evaluation, research communication, and emerging technologies.
+
+### ANLY 799 – Doctoral Studies
+
+Doctoral research mentorship focused on helping emerging scholars develop theoretically grounded, methodologically rigorous, reproducible, and impactful research.
+
+[Explore Teaching →](teaching.qmd)
+
+## Featured Research
+
+::: {.project-grid}
+
+::: {.project-card}
+
+<span class="project-label">Artificial Intelligence</span>
+
+### Human--AI Decision-Making
+
+Examining how trust, explainability, uncertainty, accountability, and human oversight shape decision quality in AI-supported environments.
+
+[View Projects →](projects.qmd)
+
+:::
+
+::: {.project-card}
+
+<span class="project-label">Health Analytics</span>
+
+### Sleep & Metabolic Health
+
+Investigating how sleep quality, sleep duration, physical activity, and related behaviors contribute to metabolic and population health outcomes.
+
+[View Projects →](projects.qmd)
+
+:::
+
+::: {.project-card}
+
+<span class="project-label">Research Methods</span>
+
+### Reproducible Research Workflows
+
+Developing transparent workflows for bibliometrics, meta-analysis, evidence synthesis, and computational research.
+
+[View Projects →](projects.qmd)
+
+:::
+
+:::
+
+## About My Work
+
+My scholarship spans data science, artificial intelligence, health analytics, learning analytics, and advanced quantitative research methods. I am particularly interested in work that connects rigorous analytical methods with meaningful human and organizational outcomes.
+
+I also mentor doctoral researchers and emerging scholars in developing research that is theoretically grounded, methodologically sound, reproducible, and positioned to make a practical contribution.
+
+[Learn More About Me →](about.qmd)

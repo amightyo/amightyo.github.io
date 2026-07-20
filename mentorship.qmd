@@ -1,0 +1,385 @@
+---
+title: "Mentorship"
+page-layout: full
+---
+
+# Mentorship
+
+## Developing Independent Scholars and Analytical Thinkers
+
+Mentorship is one of the most meaningful parts of my academic work.
+
+I view doctoral mentorship as more than guiding a student toward the completion of a dissertation. My goal is to help emerging scholars develop the **critical thinking, methodological judgment, intellectual independence, and scholarly confidence** needed to conduct rigorous research and contribute meaningfully to their fields.
+
+My approach combines high expectations with developmental support. I encourage students to ask difficult questions, challenge their assumptions, defend their methodological choices, and continuously strengthen the alignment and contribution of their research.
+
+> **The goal is not simply to complete a dissertation. The goal is to develop an independent scholar.**
+
+---
+
+## My Mentorship Philosophy
+
+I approach doctoral mentorship through several guiding principles.
+
+### Start With an Important Problem
+
+Strong research begins with a meaningful problem.
+
+Before selecting a methodology or analytical technique, I encourage doctoral researchers to clearly articulate:
+
+- What problem exists?
+- Who is affected by the problem?
+- Why does the problem matter?
+- What is already known?
+- What remains unknown?
+- Why is additional research needed?
+
+A sophisticated analytical method cannot compensate for a poorly defined research problem.
+
+---
+
+### Maintain Research Alignment
+
+One of the most important principles I emphasize is alignment across the study.
+
+A well-designed dissertation should demonstrate a clear connection among:
+
+> **Problem → Purpose → Theory → Research Questions → Hypotheses → Data → Methodology → Evidence → Contribution**
+
+When these elements are aligned, the research tells a coherent story.
+
+When they are not aligned, even technically sophisticated research can become difficult to defend or interpret.
+
+I work with doctoral researchers to continually evaluate this alignment throughout the dissertation process.
+
+---
+
+### Let the Research Question Drive the Method
+
+I encourage students to resist choosing a statistical method simply because it is familiar, popular, or advanced.
+
+Instead, we ask:
+
+- What does the research question require?
+- What type of data are available?
+- What assumptions must be satisfied?
+- What alternative methods could be considered?
+- What can the analysis legitimately tell us?
+- What can it not tell us?
+
+The objective is not to use the most complicated method.
+
+The objective is to use the **most appropriate method to answer the research question rigorously**.
+
+---
+
+## Areas of Methodological Mentorship
+
+Depending on the research problem, I mentor doctoral researchers using a range of quantitative and analytical approaches.
+
+::: {.grid}
+
+::: {.g-col-12 .g-col-md-4}
+
+### Quantitative Research
+
+- Research design
+- Survey research
+- Secondary data analysis
+- Measurement
+- Hypothesis testing
+- Regression modeling
+
+:::
+
+::: {.g-col-12 .g-col-md-4}
+
+### Advanced Analytics
+
+- Structural equation modeling
+- Latent variable modeling
+- Bayesian methods
+- Predictive analytics
+- Machine learning
+- Multivariate analysis
+
+:::
+
+::: {.g-col-12 .g-col-md-4}
+
+### Research Synthesis
+
+- Systematic literature reviews
+- Meta-analysis
+- Bibliometric analysis
+- Science mapping
+- Evidence synthesis
+- Reproducible reviews
+
+:::
+
+:::
+
+---
+
+## The Doctoral Research Journey
+
+Although every dissertation is different, I view doctoral research as an iterative process of refinement.
+
+### 1. Identify the Problem
+
+The researcher identifies a meaningful and researchable problem supported by evidence.
+
+### 2. Establish the Gap
+
+The literature is critically examined to determine what remains unknown, unresolved, or insufficiently understood.
+
+### 3. Define the Purpose
+
+The study clearly articulates what it intends to investigate and why.
+
+### 4. Develop the Theoretical Foundation
+
+The researcher identifies theories or conceptual frameworks that explain the relationships being investigated.
+
+### 5. Formulate Research Questions
+
+Research questions emerge logically from the problem, purpose, literature, and theoretical framework.
+
+### 6. Select the Methodology
+
+The research design, data, measures, and analytical methods are selected to appropriately address the research questions.
+
+### 7. Analyze the Evidence
+
+The researcher conducts the analysis while evaluating assumptions, uncertainty, robustness, and alternative explanations.
+
+### 8. Interpret the Findings
+
+Results are interpreted in relation to theory, prior research, limitations, and the context of the study.
+
+### 9. Articulate the Contribution
+
+The researcher explains how the study contributes to scholarship, practice, methodology, or future research.
+
+### 10. Disseminate the Research
+
+Whenever appropriate, I encourage students to move beyond the dissertation by presenting their work at conferences and developing manuscripts for publication.
+
+---
+
+## How I Provide Feedback
+
+My feedback is designed to help students think more deeply about their research.
+
+Rather than simply telling a researcher what to change, I often use questions such as:
+
+> What evidence supports this claim?
+
+> How does this connect to your research problem?
+
+> What is the theoretical justification for this relationship?
+
+> Does this research question require the data you plan to collect?
+
+> What alternative explanation should you consider?
+
+> What would a skeptical reviewer ask here?
+
+> What is genuinely new about this study?
+
+> What can you conclude from these results, and what can you not conclude?
+
+These questions are intended to help doctoral researchers develop the ability to critically evaluate their own work.
+
+Over time, the goal is for students to begin asking these questions themselves.
+
+---
+
+## From Dissertation Student to Independent Scholar
+
+A successful dissertation is an important milestone, but I encourage students to think beyond the dissertation itself.
+
+Doctoral research can become the foundation for:
+
+- Peer-reviewed journal articles
+- Conference presentations
+- Professional presentations
+- Research collaborations
+- Open-source analytical projects
+- Future research studies
+- Organizational or policy impact
+- Continued scholarly development
+
+Whenever appropriate, I encourage doctoral researchers to identify opportunities to extend their dissertation into a broader program of scholarship.
+
+---
+
+## Reproducible Research
+
+I increasingly encourage doctoral researchers to incorporate reproducible research practices into their work.
+
+Depending on the study, this may include:
+
+- Clear documentation of analytical decisions
+- Organized project structures
+- Version control
+- Reproducible analytical code
+- Transparent data preparation
+- Research protocols
+- Pre-registration
+- Sensitivity and robustness analyses
+- Open Science Framework documentation
+- GitHub repositories
+- Quarto research reports
+
+The goal is to help researchers develop practices that strengthen transparency and make their work easier to understand, evaluate, and extend.
+
+---
+
+## Responsible Use of Artificial Intelligence in Research
+
+Artificial intelligence is rapidly changing how researchers search literature, write code, analyze data, and communicate scholarly ideas.
+
+I encourage doctoral researchers to develop the judgment needed to use these tools responsibly.
+
+AI can support aspects of the research process, but researchers remain responsible for:
+
+- Verifying information
+- Evaluating evidence
+- Protecting confidential and sensitive data
+- Identifying potential bias
+- Understanding analytical methods
+- Checking AI-generated code
+- Maintaining appropriate attribution
+- Following institutional and publication policies
+- Taking intellectual ownership of the final research
+
+Human judgment remains central to rigorous scholarship.
+
+---
+
+## Mentorship Through the INSIGHT Lab
+
+The emerging [INSIGHT Lab](lab.qmd) is envisioned as an extension of this mentorship philosophy.
+
+As the research community develops, doctoral students and graduate researchers may have opportunities to participate in collaborative projects involving:
+
+- Artificial intelligence
+- Data science
+- Health analytics
+- Education and learning analytics
+- Advanced quantitative methods
+- Meta-analysis
+- Bibliometric research
+- Reproducible research
+
+The goal is to create opportunities for students to experience research as a **collaborative scholarly process**, not only as an individual dissertation requirement.
+
+---
+
+## Celebrating Student Scholarship
+
+One of the most rewarding aspects of mentorship is seeing students develop confidence in their ability to contribute new knowledge.
+
+I am particularly proud when students move from asking:
+
+> *"What do I need to do to finish my dissertation?"*
+
+toward asking:
+
+> *"What does the evidence tell us, and what should we investigate next?"*
+
+That transition represents an important step in developing a scholarly identity.
+
+As this site grows, this section will highlight selected student accomplishments, including:
+
+- Dissertation proposal milestones
+- Successful dissertation defenses
+- Conference presentations
+- Peer-reviewed publications
+- Research collaborations
+- Awards and recognitions
+
+---
+
+## Doctoral Scholar Spotlight
+
+### Dr. Shemika S. Miller
+
+**Dissertation:** *A Systematic Review and Meta-Analysis of the Impact of Leader-Member Exchange (LMX) Quality on Employee Turnover Intentions*
+
+Dr. Shemika S. Miller completed her doctoral dissertation at Northwood University in 2024. Her research used systematic review and meta-analytic methods to synthesize evidence on the relationship between leader-member exchange quality and employee turnover intentions.
+
+I had the privilege of serving as her dissertation chair and supporting her through the research process, including the development of the study, methodological decisions, quantitative synthesis, interpretation of findings, and successful completion of the dissertation.
+
+Her work represents the type of doctoral scholarship I aim to encourage: research that is theoretically grounded, methodologically rigorous, evidence-based, and positioned to contribute to both scholarship and organizational practice.
+
+> **Miller, S. S. (2024).** *A systematic review and meta-analysis of the impact of leader-member exchange (LMX) quality on employee turnover intentions* [Doctoral dissertation, Northwood University].
+
+[View the Dissertation on ProQuest](https://www.proquest.com/openview/9ea639844d6013c44f21d91ce9facba6/1?pq-origsite=gscholar&cbl=18750&diss=y)
+
+---
+
+## Growing a Community of Scholars
+
+As my mentorship portfolio continues to grow, I hope to use this space to celebrate doctoral researchers and alumni whose work contributes meaningful knowledge to their fields.
+
+Future scholar profiles may highlight:
+
+- Dissertation research
+- Successful defenses
+- Peer-reviewed publications
+- Conference presentations
+- Awards and recognitions
+- Collaborative research
+- Continued scholarly contributions
+
+My goal is to recognize not only the completion of the doctoral journey, but also the continued development of researchers as independent scholars and contributors to their professional communities.
+
+## Prospective Research Collaboration
+
+I am interested in mentoring and collaborating on research that intersects with my broader research program, particularly in:
+
+- Artificial intelligence and human decision-making
+- AI adoption and attitudes
+- Data science and predictive analytics
+- Health and wellness analytics
+- Education and learning analytics
+- Structural equation modeling
+- Bayesian methods
+- Meta-analysis and research synthesis
+- Bibliometric analysis
+- Reproducible research
+
+Prospective research collaborations should align with principles of **methodological rigor, intellectual curiosity, transparency, and meaningful scholarly contribution**.
+
+---
+
+## My Commitment as a Mentor
+
+My responsibility as a mentor is to support students while also challenging them to produce their strongest work.
+
+I strive to create a mentorship environment characterized by:
+
+**Rigor** — Research claims should be supported by appropriate evidence.
+
+**Alignment** — Every component of the study should contribute to answering the research questions.
+
+**Curiosity** — Researchers should remain open to unexpected findings and alternative explanations.
+
+**Independence** — Students should develop confidence in making and defending scholarly decisions.
+
+**Integrity** — Research should be conducted transparently, responsibly, and ethically.
+
+**Growth** — Feedback should be viewed as an opportunity to strengthen both the research and the researcher.
+
+Ultimately, I hope the researchers I mentor leave the doctoral process not only with a completed dissertation, but with the confidence and skills to continue asking important questions and contributing meaningful knowledge.
+
+---
+
+[Explore My Research →](research.qmd)
+
+[Explore Research Projects →](projects.qmd)
+
+[Explore the INSIGHT Lab →](lab.qmd)

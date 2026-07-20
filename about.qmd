@@ -1,5 +1,105 @@
 ---
 title: "About"
+page-layout: article
 ---
 
-About this site
+# About Me
+
+I am a data scientist, professor, researcher, academic leader, and doctoral mentor whose work sits at the intersection of **data science, artificial intelligence, education, health analytics, and advanced quantitative methods**.
+
+I currently serve as an **Associate Professor of Data Science and Analytics at Harrisburg University of Science and Technology**, where my work focuses on teaching, research, doctoral mentorship, and the development of interdisciplinary scholarship in artificial intelligence and analytics.
+
+My professional journey has moved across engineering, computer science, instructional technology, business analytics, and academic leadership. This interdisciplinary background shapes how I approach both research and teaching: I am interested not only in developing and applying sophisticated analytical methods, but also in understanding how data and technology can be used to improve human decision-making, learning, health, and organizational outcomes.
+
+## Academic Journey
+
+My academic training began in **Electrical Engineering**, with a concentration in computer and control engineering. I later earned a Master of Science in **Computer Engineering**, where my research focused on human--robot interaction and gesture imitation learning.
+
+My interest in large-scale data and intelligent systems led me to pursue a Master of Science in **Computer Science** with a focus on big data analytics. My thesis examined unsupervised learning and image classification using high-performance computing clusters.
+
+I subsequently earned a PhD in **Instructional Design and Technology**, where my dissertation examined factors predicting minority female students' intentions to enroll in college STEM programs. This work deepened my interest in education, student success, learning analytics, and the role of data in understanding complex human outcomes.
+
+My professional development has also included the **Harvard Business Analytics Program**, an Executive MBA from the **Quantic School of Business and Technology**, and advanced training in learning analytics and digital learning platforms.
+
+## Teaching
+
+My teaching philosophy is grounded in the belief that students learn best when they can connect theory, analytical reasoning, and practical application.
+
+I have taught graduate and doctoral courses in analytics, artificial intelligence, machine learning, business decision-making, programming, SQL, research methods, and quantitative analysis. My teaching increasingly emphasizes reproducible research, critical thinking, responsible AI use, and the ability to translate analytical results into meaningful decisions.
+
+At Harrisburg University, I am beginning a new chapter that includes teaching **ANLY 735 -- Research Seminar in Predictive AI** and mentoring doctoral students through **ANLY 799 -- Doctoral Studies**.
+
+I am particularly interested in helping students move beyond learning analytical tools toward becoming thoughtful researchers and practitioners who can ask better questions, evaluate evidence critically, and communicate insights clearly.
+
+[Explore Teaching →](teaching.qmd)
+
+## Research
+
+My scholarship is organized around four broad research streams:
+
+### AI, Data Science & Education
+
+I study how artificial intelligence, machine learning, and emerging technologies influence learning, decision-making, and human interaction. My interests include predictive AI, generative AI, agentic AI, AI literacy, human--AI collaboration, and attitudes toward artificial intelligence.
+
+### Health & Wellness Analytics
+
+I use data science and advanced quantitative methods to investigate health and wellness outcomes, including sleep, physical activity, metabolic health, psychological wellness, epidemiology, and health informatics.
+
+### Advanced Quantitative Methods
+
+I am interested in applying and teaching rigorous analytical approaches including structural equation modeling, Bayesian statistics, machine learning, predictive modeling, meta-analysis, and multivariate methods.
+
+### Science of Research & Emerging AI
+
+I also study how research itself is conducted, synthesized, and communicated. My interests include bibliometrics, research synthesis, open science, reproducible workflows, retrieval-augmented generation, and emerging AI research methods.
+
+[Explore My Research →](research.qmd)
+
+## Academic Leadership
+
+My academic leadership experience includes curriculum development, program oversight, faculty mentorship, program assessment, enrollment and retention initiatives, and continuous improvement.
+
+As a former Division Chair for graduate analytics and doctoral programs, I worked closely with faculty, administrators, and students to support curriculum quality, student success, faculty collaboration, and academic program development. I have also chaired doctoral dissertations and mentored students from proposal development through dissertation completion and scholarly dissemination.
+
+I view academic leadership as an extension of teaching and mentorship. Effective leadership requires creating environments where faculty and students are supported, challenged, and empowered to grow.
+
+## Doctoral Mentorship
+
+Mentoring emerging scholars is one of the most meaningful parts of my academic work.
+
+My approach to doctoral mentorship emphasizes:
+
+-   Clear alignment among the research problem, purpose, questions, theory, and methodology
+-   Rigorous and transparent research practices
+-   Critical thinking and intellectual independence
+-   Appropriate use of advanced analytical methods
+-   Reproducibility and open science where appropriate
+-   Research that makes both scholarly and practical contributions
+
+I strive to help doctoral students move beyond completing a dissertation toward developing an identity as independent scholars.
+
+[Learn More About Mentorship →](mentorship.qmd)
+
+## INSIGHT Lab
+
+One of my goals at Harrisburg University is to develop an interdisciplinary research community that connects data science, artificial intelligence, education, health, and advanced research methods.
+
+The emerging **INSIGHT Lab -- Interdisciplinary Network for Science, Intelligence, Growth, Health & Technology** -- is envisioned as a collaborative space for faculty, doctoral students, graduate researchers, and external collaborators interested in using data and AI to address complex real-world problems.
+
+> **Turning data into insight. Turning insight into impact.**
+
+[Explore the INSIGHT Lab →](lab.qmd)
+
+## Beyond Academia
+
+Outside of research and teaching, I enjoy activities that reinforce many of the same principles I value professionally: continuous learning, discipline, strategy, mentorship, and resilience.
+
+I am an avid pickleball player and coach and also enjoy figure skating. These activities remind me that improvement is rarely linear and that meaningful progress often comes through practice, reflection, adaptation, and community.
+
+## Looking Ahead
+
+As I begin this next chapter at Harrisburg University, my goal is to continue building a body of work that connects rigorous data science with meaningful human problems.
+
+I am particularly interested in expanding interdisciplinary collaborations, mentoring emerging researchers, developing open and reproducible research workflows, and building the INSIGHT Lab into a community where students and scholars can pursue ambitious questions at the intersection of artificial intelligence, analytics, health, and education.
+
+Ultimately, I hope my work contributes not only to better models and methods, but also to better decisions, stronger learning environments, healthier communities, and more thoughtful uses of technology.

@@ -3,19 +3,65 @@ project:
 
 website:
   title: "Dr. Itauma Itauma"
+  site-url: "https://amightyo.github.io"
+
   navbar:
+    background: light
+
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+
+      - href: about.qmd
+        text: About
+
+      - href: research.qmd
+        text: Research
+
+      - href: lab.qmd
+        text: INSIGHT Lab
+
+      - href: teaching.qmd
+        text: Teaching
+
+      - text: Scholarship
+        menu:
+          - href: publications.qmd
+            text: Publications
+          - href: projects.qmd
+            text: Research Projects
+          - href: talks.qmd
+            text: Talks & Service
+
+      - href: mentorship.qmd
+        text: Mentorship
+
+      - href: cv.qmd
+        text: CV
+
+    right:
+      - icon: github
+        href: "https://github.com/amightyo/amightyo"
+        aria-label: GitHub
+
+      - icon: linkedin
+        href: "https://www.linkedin.com/in/amightyo/"
+        aria-label: LinkedIn
+
+  page-footer:
+    left: "© 2026 Dr. Itauma Itauma"
+    center: "Data Scientist | Professor | Researcher | Academic Leader"
+    right:
+      - text: "Google Scholar"
+        href: "https://scholar.google.com/citations?user=v0-zAJkAAAAJ&hl=en"
+      - text: "ORCID"
+        href: "https://orcid.org/0009-0000-8835-5292"
 
 format:
   html:
-    theme:
-      - cosmo
-      - brand
+    theme: cosmo
     css: styles.css
-    toc: true
+    toc: false
+    smooth-scroll: true
 
-
-
+editor: visual

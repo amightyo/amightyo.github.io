@@ -1,0 +1,250 @@
+---
+title: "Talks & Service"
+page-layout: full
+---
+
+# Talks & Service
+
+## Scholarship, Leadership, and Academic Engagement
+
+My academic work extends beyond teaching and research to include conference presentations, scholarly service, professional leadership, and community engagement.
+
+I view these activities as opportunities to contribute to academic communities, support emerging scholars, share research with broader audiences, and help connect data, technology, education, and practice.
+
+---
+
+## Selected Presentations
+
+### Technology Integration for Diverse Learners
+
+**Itauma, I. (2024).**  
+*Technology Integration for Diverse Learners: Enhancing Engagement and Accessibility.*
+
+Regional Center for Educational Planning (RCEP) UNESCO Symposium.
+
+This presentation focused on the role of technology in creating more inclusive, accessible, and engaging learning environments.
+
+---
+
+### Factors Predicting Mathematics and Science Motivation
+
+**Itauma, I., Robertson, A., Fuda-Daddio, J., & Komaroff, E. (2024).**  
+*Factors Predicting Mathematics and Science Motivation among Minority Female High School Students.*
+
+American Educational Research Association Annual Meeting, Philadelphia, Pennsylvania.
+
+This research examined factors associated with STEM motivation among minority female high school students and reflects my broader interest in education, student success, and STEM participation.
+
+---
+
+### Leveraging Large Language Models for Predictive Analytics
+
+**Itauma, I. (2024).**  
+*Leveraging Large Language Models for Predictive Analytics and Code Generation Using ChatGPT and Gemini API.*
+
+1st International Business Analytics Conference, Fredonia, New York.
+
+This presentation explored emerging applications of large language models in predictive analytics and code generation.
+
+---
+
+### Data Management & Analytics in Health Systems
+
+**Itauma, I. (2020).**  
+*Data Management & Analytics Simplified for the New Normal in the Health System.*
+
+Hospital Data Management & Analytics Conference.
+
+---
+
+### Engaging Students with Canvas
+
+**Itauma, I. (2020).**  
+*Engaging Students with Canvas in Online and Traditional Classrooms.*
+
+Michigan Canvas Users Conference.
+
+---
+
+### Exploratory Data Analysis in Educational Research
+
+**Itauma, I. (2018).**  
+*Conducting Exploratory Data Analysis in Educational Research Using HPCC Systems.*
+
+HPCC Systems Engineering Summit – Community Day.
+
+---
+
+### Unsupervised Learning and Image Classification
+
+**Itauma, I., & Chen, X. (2016).**  
+*Unsupervised Learning and Image Classification in High Performance Computing Clusters.*
+
+HPCC Systems Engineering Summit – Community Day.
+
+Poster Presentation and Speaker.
+
+---
+
+## Selected Conference Leadership & Service
+
+### American Educational Research Association
+
+**Chair, AERA Annual Meeting (2026)**  
+Session: *Teacher Leadership, Wellbeing, and Retention*
+
+**Discussant, AERA Annual Meeting (2026)**  
+Session: *Preparing Future Educators in the Age of AI*
+
+These roles reflect my continuing engagement with scholarship related to education, leadership, teacher development, wellbeing, and artificial intelligence.
+
+---
+
+### International Business Analytics Conference
+
+**Moderator, 1st International Business Analytics Conference (2024)**  
+Track: Analytics in Business Education
+
+I have also supported and collaborated with students and researchers presenting applied analytics work at the International Business Analytics Conference.
+
+---
+
+## Doctoral Research Leadership
+
+### Dissertation Chair
+
+**DeVos Graduate School of Management, Northwood University**  
+2023–Present
+
+My dissertation chairing experience includes mentoring doctoral researchers through the development and completion of quantitative and applied research.
+
+My mentorship has included support in:
+
+- Research problem development
+- Literature review
+- Theoretical framework development
+- Research question alignment
+- Methodology
+- Advanced statistical analysis
+- Research interpretation
+- Dissertation defense preparation
+- Conference presentation
+- Scholarly dissemination
+
+[Learn More About My Mentorship Approach →](mentorship.qmd)
+
+---
+
+## Doctoral Scholar Spotlight
+
+### Dr. Shemika S. Miller
+
+**Dissertation:** *A Systematic Review and Meta-Analysis of the Impact of Leader-Member Exchange (LMX) Quality on Employee Turnover Intentions*
+
+Dr. Shemika S. Miller completed her doctoral dissertation at Northwood University in 2024.
+
+I had the privilege of serving as her dissertation chair and supporting her through the research process, including methodological development, quantitative synthesis, interpretation of findings, and successful completion of the dissertation.
+
+Her work represents the type of doctoral scholarship I aim to encourage: theoretically grounded, methodologically rigorous, evidence-based, and relevant to both scholarship and organizational practice.
+
+> **Miller, S. S. (2024).** *A systematic review and meta-analysis of the impact of leader-member exchange (LMX) quality on employee turnover intentions* [Doctoral dissertation, Northwood University].
+
+[View the Dissertation on ProQuest](https://www.proquest.com/openview/9ea639844d6013c44f21d91ce9facba6/1?pq-origsite=gscholar&cbl=18750&diss=y)
+
+---
+
+## Academic Leadership & Service
+
+My academic leadership and service activities have included:
+
+- Graduate program leadership
+- Curriculum development
+- Program assessment
+- Faculty mentorship
+- Student success initiatives
+- Enrollment and retention support
+- Dissertation supervision
+- Academic quality improvement
+- Interdisciplinary collaboration
+- Conference moderation
+- Scholarly reviewing
+- Research mentorship
+
+I view academic service as an important part of creating environments where faculty, students, and researchers can succeed.
+
+---
+
+## Professional & Community Engagement
+
+My broader professional engagement reflects interests in leadership, learning, analytics, and community development.
+
+### Faculty and Student Development
+
+I have supported faculty and students through mentorship, collaborative academic planning, instructional guidance, and research development.
+
+### Research Communication
+
+I value opportunities to communicate research beyond traditional academic publications through conferences, professional presentations, workshops, and accessible research resources.
+
+### Coaching and Community
+
+Outside academia, I am also involved in pickleball coaching and mentorship.
+
+Coaching reinforces many of the same principles I value in academic work:
+
+- Continuous improvement
+- Strategic thinking
+- Confidence building
+- Resilience
+- Collaboration
+- Community
+
+---
+
+## Areas of Speaking Interest
+
+I welcome opportunities to contribute to academic and professional conversations related to:
+
+- Artificial intelligence in education
+- Predictive AI and machine learning
+- Human--AI decision-making
+- AI literacy
+- Responsible use of generative AI
+- Data science education
+- Health and wellness analytics
+- Structural equation modeling
+- Bayesian analytics
+- Research methods
+- Reproducible research
+- Bibliometric analysis
+- Doctoral mentorship
+- Academic leadership
+- Student success
+
+---
+
+## Looking Ahead
+
+As my work at Harrisburg University develops, I look forward to expanding my engagement in:
+
+- Research conferences
+- Invited talks
+- Academic panels
+- Workshops
+- Doctoral research events
+- Interdisciplinary collaborations
+- AI and data science communities
+- Research methods training
+- Student research showcases
+
+This page will continue to evolve as new presentations, service activities, and scholarly engagements are added.
+
+---
+
+[View Publications →](publications.qmd)
+
+[Explore My Research →](research.qmd)
+
+[Learn About Mentorship →](mentorship.qmd)
+
+[Explore the INSIGHT Lab →](lab.qmd)

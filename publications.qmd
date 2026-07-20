@@ -1,0 +1,217 @@
+---
+title: "Publications"
+page-layout: full
+---
+
+# Publications & Scholarly Contributions
+
+My scholarship spans **artificial intelligence, data science, health analytics, education, machine learning, and advanced quantitative methods**.
+
+This page highlights selected peer-reviewed publications, scholarly contributions, conference proceedings, and other research outputs.
+
+For the most current record of my scholarly work, visit my external research profiles.
+
+[Google Scholar](https://scholar.google.com/citations?user=v0-zAJkAAAAJ&hl=en){.btn .btn-primary}
+[ORCID](https://orcid.org/0009-0000-8835-5292){.btn .btn-outline-primary}
+[ResearchGate](https://www.researchgate.net/profile/Itauma-Itauma){.btn .btn-outline-primary}
+
+---
+
+## Peer-Reviewed Journal Articles
+
+### Generative AI and Project Communication
+
+**Srikanth, S., & Itauma, I. (2026).**  
+Leveraging Generative AI as a Socio-Technical Mediator in Global Project Communication and Conflict Management.
+
+*Accepted for presentation at the 3rd International Business Analytics Conference.*
+
+---
+
+### Data Analytics, Generative AI, and Project Management
+
+**Srikanth, S., & Itauma, I. (2025).**  
+Transforming project management through data analytics and generative AI. *Empirical Economics Letters, 24*(September Special Issue 1), 93–109.
+
+[View Publication](https://doi.org/10.5281/zenodo.18866470)
+
+---
+
+### AI Scribes and Clinical Documentation
+
+**Itauma, O., & Itauma, I. (2024).**  
+AI scribes: Boosting physician efficiency in clinical documentation. *International Journal on Bioinformatics & Biosciences, 14*(1), 9–18.
+
+[View Publication](https://doi.org/10.5121/ijbb.2024.14102)
+
+---
+
+### Contraceptive Choices and Weight Status
+
+**Itauma, O., Abara, C., Gonullu, D., Fee, M., Itauma, I., & Awonuga, A. (2020).**  
+Contraceptive choices by weight status among women in the United States: An analysis of the 2015–2017 National Survey of Family Growth. *Fertility and Sterility, 114*(3), e173–e174.
+
+---
+
+## Books & Book Chapters
+
+### Machine Learning Using Python
+
+**Itauma, I. (2024).**  
+*Machine Learning Using Python.*
+
+An applied introduction to machine learning using Python, with emphasis on connecting analytical concepts with practical implementation.
+
+---
+
+### Unsupervised Learning and Image Classification
+
+**Itauma, I., Aslan, M. S., Chen, X. W., & Villanustre, F. (2016).**  
+Unsupervised learning and image classification in high-performance computing clusters. In *Big Data Technologies and Applications* (pp. 387–400). Springer International.
+
+This work emerged from my graduate research in computer science and reflects my early scholarship at the intersection of machine learning, image analysis, and high-performance computing.
+
+---
+
+## Selected Conference Proceedings
+
+### Recruitment Analytics and Machine Learning
+
+**Ravi, M., Yenuga, H., & Itauma, I. (2025).**  
+Revolutionizing recruitment: Enhanced machine learning models for bias mitigation and efficiency.
+
+*Proceedings of the 2nd International Business Analytics Conference.*
+
+---
+
+### Predictive Models for Customer Churn
+
+**Rawat, P., Sharma, A., & Itauma, I. (2025).**  
+Retaining value: Segment-based predictive models for customer churn in banking.
+
+*Proceedings of the 2nd International Business Analytics Conference.*
+
+**Recognition:** Best Paper Award
+
+---
+
+### Large Language Models for Predictive Analytics
+
+**Itauma, I. (2024).**  
+Leveraging large language models for predictive analytics and code generation using ChatGPT and Gemini API.
+
+*Proceedings of the 1st International Business Analytics Conference.*
+
+---
+
+### Machine Learning for Wine Quality Prediction
+
+**Mutha, R., Itauma, I., & Cutt, K. (2024).**  
+Machine learning approaches for predicting wine quality from chemical properties in Azure Machine Learning Studio.
+
+*Proceedings of the 1st International Business Analytics Conference.*
+
+---
+
+### Large Language Models and Confidence Scoring
+
+**Nasim, M., Zhu, S., & Itauma, I. (2024).**  
+An empirical analysis of the functionalities and confidence scoring mechanisms in leading large language models.
+
+*Proceedings of the 1st International Business Analytics Conference.*
+
+---
+
+## Selected Earlier Research
+
+### Unsupervised Learning and Image Classification
+
+**Itauma, I., Aslan, M. S., Villanustre, F., & Chen, X. (2015).**  
+Unsupervised learning and image classification in high-performance computing clusters.
+
+*14th International Conference on Machine Learning and Applications (IEEE ICMLA 2015).*
+
+This work represents an early part of my research trajectory in machine learning, big data analytics, and high-performance computing.
+
+---
+
+## Research in Progress
+
+My current research portfolio includes several active and emerging projects across my four research streams.
+
+### Artificial Intelligence
+
+- AI literacy, readiness, and student attitudes toward artificial intelligence
+- Personality traits and attitudes toward artificial intelligence
+- Human--AI decision-making
+- Retrieval-augmented generation for large language models
+- Agentic AI and the future of research
+
+### Health & Wellness Analytics
+
+- Sleep and metabolic health
+- Physical activity, sleep, and psychological wellness
+- Complementary health approaches and health behaviors
+- Bayesian modeling for health and epidemiological decision-making
+
+### Research Synthesis & Methods
+
+- Reproducible bibliometric research workflows
+- Meta-analysis and evidence synthesis
+- Advanced quantitative methodology
+- Open and reproducible research practices
+
+[Explore Research Projects →](projects.qmd)
+
+---
+
+## Scholarly Profiles
+
+My publication record and scholarly contributions can also be explored through the following research profiles:
+
+### Google Scholar
+
+Google Scholar provides citation information and an overview of my scholarly publications.
+
+[View Google Scholar Profile](https://scholar.google.com/citations?user=v0-zAJkAAAAJ&hl=en)
+
+### ORCID
+
+My ORCID provides a persistent researcher identifier and structured record of scholarly contributions.
+
+**ORCID:** 0009-0000-8835-5292
+
+[View ORCID Profile](https://orcid.org/0009-0000-8835-5292)
+
+### ResearchGate
+
+ResearchGate provides access to additional information about my research and scholarly network.
+
+[View ResearchGate Profile](https://www.researchgate.net/profile/Itauma-Itauma)
+
+---
+
+## Open & Reproducible Scholarship
+
+As my research program develops, I am working toward making more research outputs openly accessible and reproducible.
+
+Where appropriate, future publications and projects will connect to:
+
+- GitHub repositories
+- Open Science Framework projects
+- Pre-registrations
+- Research protocols
+- Reproducible analytical code
+- Open datasets
+- Preprints
+- Supplementary materials
+
+This approach supports the broader research philosophy of the [INSIGHT Lab](lab.qmd): creating scholarship that is rigorous, transparent, reproducible, and capable of being extended by others.
+
+---
+
+[Explore My Research →](research.qmd)
+
+[View Research Projects →](projects.qmd)
+
+[Explore the INSIGHT Lab →](lab.qmd)

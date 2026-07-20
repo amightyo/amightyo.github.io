@@ -1,0 +1,353 @@
+---
+title: "Retrieval-Augmented Generation for Large Language Models"
+subtitle: "Mapping the Evolution and Intellectual Structure of RAG Research"
+page-layout: full
+---
+
+# Global Research Trends in Retrieval-Augmented Generation
+
+## A Bibliometric Analysis of RAG for Large Language Models
+
+<span class="project-label">Bibliometrics</span>
+<span class="project-label">Artificial Intelligence</span>
+<span class="project-label">Open Science</span>
+
+**Status:** Ongoing Research
+
+**Research Stream:** Science of Research & Emerging AI
+
+**Methods:** Bibliometric Analysis · Science Mapping · Computational Text Analysis
+
+---
+
+## Project Overview
+
+Retrieval-augmented generation (RAG) has emerged as an important approach for extending the capabilities of large language models by integrating information retrieval with generative artificial intelligence.
+
+As research in this area expands rapidly, there is a need to systematically examine how the field has developed, who and what have shaped its intellectual structure, and which themes are emerging.
+
+This project uses bibliometric analysis and science mapping to examine the evolution of research on **retrieval-augmented generation for large language models**.
+
+The study is designed not only to describe publication growth, but also to investigate the intellectual, conceptual, and collaborative structures shaping the field.
+
+---
+
+## Scope of the Study
+
+The primary unit of analysis is:
+
+> **Retrieval-Augmented Generation (RAG) for Large Language Models (LLMs)**
+
+This scope intentionally focuses on the modern RAG paradigm associated with large language models rather than broadly combining it with earlier retrieval-based generation approaches in traditional natural language processing.
+
+Earlier retrieval-generation methods may provide important historical context, but they are conceptually distinguished from the primary unit of analysis.
+
+The current study period focuses on research published through **2025**, allowing the analysis to examine the emergence and rapid growth of the field while using a complete publication year as the endpoint.
+
+---
+
+## Research Questions
+
+The project is guided by the following broad research questions:
+
+### RQ1 — Publication Trends
+
+How has scholarly research on retrieval-augmented generation for large language models evolved over time?
+
+### RQ2 — Research Influence
+
+Who are the most influential authors, institutions, countries, publications, and sources contributing to RAG research?
+
+### RQ3 — Collaboration
+
+What patterns of collaboration characterize the global RAG research community?
+
+### RQ4 — Intellectual Structure
+
+What citation and knowledge structures define the intellectual foundations of RAG research?
+
+### RQ5 — Emerging Themes
+
+What major themes, research clusters, and emerging topics characterize the development of RAG for large language models?
+
+---
+
+## Search Strategy
+
+A central methodological consideration in this project is how to identify relevant RAG research comprehensively.
+
+Searching only for the exact phrase **"retrieval-augmented generation"** may exclude relevant studies that describe similar architectures, approaches, or mechanisms using different terminology.
+
+The project therefore uses a broader metadata-based retrieval strategy.
+
+Records are retrieved using relevant information available through:
+
+- Titles
+- Abstracts
+- Keywords
+- Concepts and topics
+- Related metadata fields
+
+The search incorporates a comprehensive set of terms associated with retrieval-augmented generation and large language models.
+
+Retrieved records are subsequently screened for relevance according to predefined eligibility criteria.
+
+This approach is designed to improve recall while reducing unnecessary selection bias introduced by relying on a single exact phrase.
+
+---
+
+## Data Source
+
+### OpenAlex
+
+The primary bibliographic data source for this project is **OpenAlex**.
+
+OpenAlex provides open scholarly metadata that can support:
+
+- Publication retrieval
+- Author analysis
+- Institutional analysis
+- Country-level analysis
+- Citation analysis
+- Topic and concept analysis
+- Collaboration networks
+
+The use of an open bibliographic data source also aligns with the project's broader commitment to reproducible and transparent research.
+
+---
+
+## Research Workflow
+
+The project follows a reproducible bibliometric workflow:
+
+> **Define Scope → Develop Search Strategy → Retrieve Records → Screen for Relevance → Clean Metadata → Analyze → Visualize → Interpret → Reproduce**
+
+### 1. Define the Unit of Analysis
+
+Clearly define RAG for LLMs as the primary conceptual domain.
+
+### 2. Develop the Search Strategy
+
+Construct a comprehensive metadata search strategy designed to balance precision and recall.
+
+### 3. Retrieve Bibliographic Records
+
+Retrieve scholarly metadata through OpenAlex.
+
+### 4. Screen Records
+
+Manually screen retrieved records using predefined inclusion and exclusion criteria.
+
+### 5. Clean and Standardize Metadata
+
+Address issues such as:
+
+- Duplicate records
+- Author name variants
+- Institutional name variants
+- Keyword inconsistencies
+- Missing metadata
+
+### 6. Conduct Bibliometric Analysis
+
+Analyze publication growth, productivity, impact, collaboration, citation structures, and research themes.
+
+### 7. Conduct Science Mapping
+
+Develop network-based representations of the field.
+
+### 8. Analyze Emerging Themes
+
+Use keyword analysis and computational text methods to identify developing research topics.
+
+### 9. Document the Workflow
+
+Maintain transparent documentation of search, screening, cleaning, and analytical decisions.
+
+---
+
+## Analytical Methods
+
+The project combines descriptive bibliometrics, network analysis, science mapping, and computational text analysis.
+
+### Performance Analysis
+
+Potential indicators include:
+
+- Annual scientific production
+- Citation patterns
+- Most productive authors
+- Most influential authors
+- Leading institutions
+- Leading countries
+- Most influential publications
+- Most relevant publication sources
+
+### Collaboration Analysis
+
+Collaboration networks may examine:
+
+- Author collaboration
+- Institutional collaboration
+- International collaboration
+
+### Intellectual Structure
+
+Citation-based analyses may include:
+
+- Co-citation analysis
+- Bibliographic coupling
+- Citation networks
+
+### Conceptual Structure
+
+The conceptual development of the field may be examined through:
+
+- Keyword co-occurrence
+- Thematic mapping
+- Thematic evolution
+- Topic analysis
+- Trend topics
+
+---
+
+## Computational Text Analysis
+
+In addition to traditional bibliometric methods, the project explores computational text analysis to identify meaningful terminology within the literature.
+
+### TF-IDF
+
+Term Frequency–Inverse Document Frequency (TF-IDF) may be used to identify terms that are particularly informative within documents or groups of documents.
+
+This can complement author-provided keywords and bibliometric concept metadata by identifying terminology directly from titles and abstracts.
+
+The integration of bibliometric and text-analytic approaches may provide a richer understanding of how RAG research themes have evolved.
+
+---
+
+## Tools
+
+The reproducible workflow incorporates:
+
+**Data Retrieval**
+
+OpenAlex API · openalexR
+
+**Data Processing**
+
+R · Python
+
+**Bibliometric Analysis**
+
+Bibliometrix · Biblioshiny
+
+**Science Mapping**
+
+VOSviewer
+
+**Text Analysis**
+
+R · Python · TF-IDF
+
+**Version Control**
+
+Git · GitHub
+
+**Reproducible Reporting**
+
+Quarto
+
+---
+
+## Reproducibility
+
+A central objective of the project is to ensure that the research process can be understood and reproduced.
+
+The project workflow is designed to document:
+
+- Search terminology
+- Search dates
+- API queries
+- Inclusion criteria
+- Exclusion criteria
+- Screening decisions
+- Data cleaning procedures
+- Analytical code
+- Software versions
+- Visualization parameters
+
+Where appropriate, research materials will be shared through GitHub and open research infrastructure.
+
+---
+
+## Methodological Contribution
+
+Beyond the substantive findings about RAG research, this project also contributes to a broader methodological objective.
+
+The workflow developed for this study will inform the development of a **reproducible bibliometric research framework** that can be adapted to other rapidly evolving research domains.
+
+This creates a connection between two related projects:
+
+> **RAG Bibliometric Study → Reproducible Bibliometric Workflow → Future Bibliometric Studies**
+
+[Explore the Reproducible Bibliometric Workflow →](reproducible-bibliometrics.qmd)
+
+---
+
+## Expected Research Outputs
+
+Potential outputs from this project include:
+
+- Peer-reviewed journal article
+- Conference presentation
+- Reproducible GitHub repository
+- Open research documentation
+- Bibliometric datasets where licensing permits
+- Analytical code
+- Science maps and visualizations
+- Methodological documentation
+
+As outputs become publicly available, links will be added to this page.
+
+---
+
+## Broader Research Significance
+
+RAG represents an important development in the evolution of large language models because it connects generative systems with external sources of information.
+
+Understanding the development of this research domain can provide insight into:
+
+- How the field has evolved
+- Which researchers and institutions are shaping its development
+- How international collaboration is structured
+- Which intellectual foundations influence current research
+- Which topics are becoming more prominent
+- Where future research opportunities may exist
+
+The project also contributes to the broader [INSIGHT Lab](../lab.qmd) research agenda in emerging artificial intelligence and the science of research.
+
+---
+
+## Project Connections
+
+This project intersects with several areas of my broader research program:
+
+**Science of Research & Emerging AI**  
+Understanding how rapidly developing AI research fields evolve.
+
+**Reproducible Research**  
+Developing transparent workflows for bibliometric research.
+
+**Agentic AI**  
+Examining emerging AI architectures and research trajectories.
+
+**Research Synthesis**  
+Developing methods for systematically understanding accumulated scientific knowledge.
+
+---
+
+[← Back to Research Projects](../projects.qmd)
+
+[Explore My Research →](../research.qmd)
+
+[Explore the INSIGHT Lab →](../lab.qmd)

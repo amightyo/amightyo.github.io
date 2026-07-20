@@ -1,0 +1,346 @@
+---
+title: "Research"
+page-layout: full
+---
+
+# Research
+
+## Data, Intelligence, and Evidence for Human-Centered Impact
+
+My research sits at the intersection of **data science, artificial intelligence, education, health, and advanced quantitative methods**.
+
+Across these areas, I am interested in a common question:
+
+> **How can data, artificial intelligence, and rigorous analytical methods be used to generate better evidence, support better decisions, and improve human outcomes?**
+
+My research program is organized around four interconnected streams:
+
+1. **AI, Data Science & Education**
+2. **Health & Wellness Analytics**
+3. **Advanced Quantitative Methods**
+4. **Science of Research & Emerging AI**
+
+These streams reflect my interdisciplinary background in engineering, computer science, instructional technology, analytics, and academic leadership. They also provide the intellectual foundation for the emerging [INSIGHT Lab](lab.qmd).
+
+---
+
+## Research at a Glance
+
+::: {.grid}
+
+::: {.g-col-12 .g-col-md-6}
+
+### AI, Data Science & Education
+
+Understanding how artificial intelligence and data science influence learning, decision-making, human behavior, and educational outcomes.
+
+[Explore this research stream ↓](#ai-data-science--education)
+
+:::
+
+::: {.g-col-12 .g-col-md-6}
+
+### Health & Wellness Analytics
+
+Using data and advanced analytics to investigate health behaviors, wellness, population health, and health-related decision-making.
+
+[Explore this research stream ↓](#health--wellness-analytics)
+
+:::
+
+::: {.g-col-12 .g-col-md-6}
+
+### Advanced Quantitative Methods
+
+Applying and advancing rigorous analytical approaches for understanding complex relationships and supporting evidence-based conclusions.
+
+[Explore this research stream ↓](#advanced-quantitative-methods)
+
+:::
+
+::: {.g-col-12 .g-col-md-6}
+
+### Science of Research & Emerging AI
+
+Studying how knowledge is created, synthesized, reproduced, and transformed by emerging artificial intelligence technologies.
+
+[Explore this research stream ↓](#science-of-research--emerging-ai)
+
+:::
+
+:::
+
+---
+
+## AI, Data Science & Education
+
+Artificial intelligence is increasingly shaping how people learn, work, communicate, and make decisions. My research in this area examines both the opportunities created by AI and the human, educational, and organizational factors that influence its effective use.
+
+I am particularly interested in moving beyond questions of whether people use artificial intelligence toward understanding **how, why, and under what conditions AI contributes to meaningful outcomes**.
+
+### Areas of Interest
+
+- Artificial intelligence literacy
+- Predictive AI and machine learning
+- Generative AI
+- Agentic AI
+- Human--AI collaboration
+- AI adoption and attitudes
+- Trust in artificial intelligence
+- AI-supported decision-making
+- Learning analytics
+- Student engagement and academic success
+- Responsible AI use in education
+- Faculty and student adoption of emerging technologies
+
+### Questions That Motivate This Work
+
+- What factors influence people's attitudes toward and adoption of artificial intelligence?
+- How does AI literacy shape effective and responsible use of AI?
+- When does human--AI collaboration improve decision quality?
+- How can predictive AI support educational decision-making without reinforcing existing inequities?
+- What distinguishes productive AI assistance from overreliance on AI?
+- How should educators redesign learning and assessment in response to generative and agentic AI?
+- How can AI support students while preserving critical thinking and intellectual independence?
+
+### Current and Emerging Directions
+
+My current work in this stream includes research examining **student attitudes toward artificial intelligence**, **AI literacy and readiness**, **personality and attitudes toward AI**, **human--AI decision-making**, and the role of emerging AI technologies in education and organizations.
+
+This research increasingly considers AI not simply as a technological tool, but as part of a broader **human--technology system** in which outcomes depend on the interaction among people, technology, context, and decision processes.
+
+[View Related Projects →](projects.qmd)
+
+---
+
+## Health & Wellness Analytics
+
+My research in health and wellness analytics uses data science, epidemiological reasoning, and advanced quantitative methods to investigate factors associated with individual and population health.
+
+I am particularly interested in health questions where multiple behavioral, psychological, and contextual factors interact to influence outcomes.
+
+### Areas of Interest
+
+- Health informatics
+- Sleep quality and sleep duration
+- Physical activity
+- Sedentary behavior
+- Metabolic health
+- Psychological wellness
+- Population health
+- Epidemiology
+- Public health analytics
+- Health disparities
+- Predictive health analytics
+- AI-enabled health decision support
+
+### Questions That Motivate This Work
+
+- How do sleep, physical activity, and other health behaviors interact to influence long-term health?
+- Which health indicators provide the most meaningful information for identifying risk?
+- How can large public datasets be used to generate actionable population health insights?
+- How can predictive analytics support earlier identification of health risks?
+- How should uncertainty be incorporated into health-related decision-making?
+- What role can artificial intelligence play in supporting clinicians, patients, and health systems?
+
+### Current and Emerging Directions
+
+My recent work has examined relationships among **sleep, metabolic health, physical activity, psychological wellness, and health risk** using population-level data.
+
+I am particularly interested in expanding this work through public datasets and reproducible analytical workflows that combine epidemiology, Bayesian methods, structural equation modeling, and predictive analytics.
+
+The long-term goal is to contribute to a more integrated understanding of health and wellness in which analytical models support prevention, decision-making, and meaningful human outcomes.
+
+[View Related Projects →](projects.qmd)
+
+---
+
+## Advanced Quantitative Methods
+
+Methodology is a central part of my research identity.
+
+I am interested not only in applying statistical and computational methods, but also in helping researchers select methods that appropriately reflect their theoretical questions, data structures, and inferential goals.
+
+My methodological work spans explanatory, predictive, and evidence-synthesis approaches.
+
+### Areas of Interest
+
+- Structural equation modeling
+- Confirmatory factor analysis
+- Bayesian statistics
+- Bayesian model comparison
+- Predictive modeling
+- Machine learning
+- Meta-analysis
+- Multivariate analysis
+- Regression modeling
+- Longitudinal and multilevel methods
+- Latent variable modeling
+- Data visualization
+
+### Questions That Motivate This Work
+
+- Which analytical method is most appropriate for the research question being asked?
+- How can researchers distinguish explanatory modeling from predictive modeling?
+- How can uncertainty be communicated more effectively in quantitative research?
+- When do latent variable models provide a better representation of complex constructs?
+- How can Bayesian methods improve evidence-based decision-making?
+- How can multiple studies be synthesized to estimate the overall strength and consistency of evidence?
+- How can advanced methods remain rigorous while also being understandable to applied researchers and decision-makers?
+
+### Methodological Philosophy
+
+I view analytical methods as tools for answering substantive questions rather than as ends in themselves.
+
+My approach emphasizes alignment among:
+
+> **Theory → Research Question → Data → Method → Evidence → Interpretation**
+
+This perspective also informs my doctoral mentorship. I encourage researchers to begin with the problem and theoretical framework before selecting an analytical technique.
+
+[Learn About My Mentorship Approach →](mentorship.qmd)
+
+---
+
+## Science of Research & Emerging AI
+
+As artificial intelligence changes how research is discovered, conducted, analyzed, and communicated, I have become increasingly interested in studying the **research process itself**.
+
+This research stream examines the structure and evolution of scientific knowledge while also exploring how emerging AI technologies may transform research workflows.
+
+### Areas of Interest
+
+- Bibliometric analysis
+- Science mapping
+- Research synthesis
+- Meta-analysis
+- Open science
+- Reproducible research
+- Computational literature analysis
+- Retrieval-augmented generation
+- Agentic AI
+- AI-assisted research workflows
+- Research transparency
+- Scholarly communication
+
+### Questions That Motivate This Work
+
+- How do new research fields emerge and evolve?
+- Who and what shape the intellectual structure of a research domain?
+- How can bibliometric methods identify emerging themes and research gaps?
+- How can research synthesis become more transparent and reproducible?
+- How can artificial intelligence responsibly support literature discovery and evidence synthesis?
+- How will retrieval-augmented generation and agentic AI change scientific research?
+- What safeguards are needed when AI becomes increasingly integrated into research workflows?
+
+### Current and Emerging Directions
+
+Current work in this area includes research on the evolution of **retrieval-augmented generation for large language models**, **human--AI decision-making**, and the development of robust and reproducible bibliometric workflows.
+
+I am particularly interested in integrating tools and data sources such as **OpenAlex, Bibliometrix, VOSviewer, R, Python, GitHub, and Quarto** to create transparent research pipelines that can be reused and extended by other researchers.
+
+A longer-term direction of this work is to examine how **AI agents and human researchers may collaborate across the research lifecycle**, from literature discovery and hypothesis generation to analysis, reproducibility, and scholarly communication.
+
+[View Related Projects →](projects.qmd)
+
+---
+
+## Connecting the Research Streams
+
+Although these four streams are presented separately, they are intentionally interconnected.
+
+For example:
+
+- Research on **AI in education** requires understanding human behavior, learning, and responsible technology adoption.
+- Research on **health analytics** benefits from advanced statistical methods and interpretable predictive models.
+- Research on **human--AI decision-making** connects artificial intelligence with psychology, organizations, health, and education.
+- Research on **bibliometrics and meta-analysis** strengthens our ability to understand accumulated scientific evidence.
+- Research on **reproducibility and emerging AI** influences how scholarship across all of these areas is conducted.
+
+Together, these streams form a broader research agenda focused on the responsible use of **data, intelligence, and evidence** to understand complex systems and improve human outcomes.
+
+---
+
+## Research Approach
+
+Across my research, I emphasize several guiding principles.
+
+### Interdisciplinary Thinking
+
+Complex problems often require perspectives and methods from multiple disciplines.
+
+### Methodological Rigor
+
+Research questions, theory, data, and analytical methods should be carefully aligned.
+
+### Reproducibility
+
+Research workflows should be transparent and reproducible whenever possible.
+
+### Human-Centered AI
+
+Technological innovation should be evaluated in relation to the people, communities, and systems it affects.
+
+### Open and Collaborative Science
+
+Research is strengthened through collaboration, transparency, and the responsible sharing of knowledge.
+
+### Mentorship
+
+Developing the next generation of researchers is an important part of scholarly impact.
+
+---
+
+## Methods & Tools
+
+My research draws on a range of analytical methods and computational tools depending on the research question.
+
+**Quantitative Methods**
+
+Structural Equation Modeling · Bayesian Statistics · Meta-Analysis · Machine Learning · Predictive Modeling · Regression · Multivariate Analysis · Bibliometrics
+
+**Programming & Analytics**
+
+R · Python · SQL · SAS · Stata · JASP · Jamovi · Power BI
+
+**Research Infrastructure**
+
+Quarto · GitHub · OSF · OpenAlex · Bibliometrix · VOSviewer
+
+The selection of a method or tool is driven by the research question rather than by a preference for a particular technology.
+
+---
+
+## INSIGHT Lab
+
+My research agenda provides the intellectual foundation for the emerging **INSIGHT Lab — Interdisciplinary Network for Science, Intelligence, Growth, Health & Technology**.
+
+The lab is envisioned as a collaborative environment where faculty, doctoral students, graduate researchers, and external collaborators can pursue interdisciplinary questions connecting artificial intelligence, data science, health, education, and advanced quantitative methods.
+
+> **Turning data into insight. Turning insight into impact.**
+
+[Explore the INSIGHT Lab →](lab.qmd)
+
+---
+
+## Collaboration
+
+I welcome opportunities to collaborate with researchers and practitioners working in areas that intersect with my research program.
+
+I am particularly interested in collaborations involving:
+
+- Artificial intelligence and human decision-making
+- AI in education
+- Health and wellness analytics
+- Learning analytics
+- Advanced quantitative methodology
+- Meta-analysis and evidence synthesis
+- Bibliometric research
+- Reproducible research workflows
+- Emerging applications of agentic AI
+
+[Explore Current Projects →](projects.qmd)
+
+[View Publications →](publications.qmd)
+
+[Connect on LinkedIn](https://www.linkedin.com/in/amightyo/)

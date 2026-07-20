@@ -1,0 +1,337 @@
+---
+title: "Projects"
+page-layout: full
+---
+
+# Research Projects
+
+## From Questions to Evidence to Impact
+
+My research projects reflect an interdisciplinary program of scholarship connecting **artificial intelligence, data science, education, health analytics, research synthesis, and advanced quantitative methods**.
+
+Across these projects, I emphasize methodological rigor, reproducibility, interdisciplinary collaboration, and the translation of analytical findings into meaningful insights.
+
+This page highlights selected active, ongoing, and emerging research projects. As projects develop, links to publications, conference presentations, open-source code, data, and reproducible research materials will be added.
+
+---
+
+## Featured Projects
+
+::: {.project-portfolio}
+
+::: {.project-feature-card}
+
+<span class="project-label">Artificial Intelligence</span>
+
+### AI Literacy, Readiness, and Student Attitudes Toward Artificial Intelligence
+
+**Research Stream:** AI, Data Science & Education
+
+**Methods:** Structural Equation Modeling · Latent Variable Modeling
+
+This research examines how AI literacy, readiness, confidence, anxiety, perceived relevance, satisfaction, and related factors contribute to students' attitudes toward and intentions to use artificial intelligence.
+
+The broader goal is to better understand the pathways through which students develop the knowledge, confidence, and motivation needed to engage effectively and responsibly with AI.
+
+**Key themes:** AI literacy · Student readiness · AI confidence · Technology adoption · Higher education
+
+[View Project →](projects/ai-attitudes.qmd)
+
+:::
+
+::: {.project-feature-card}
+
+<span class="project-label">Meta-Analysis</span>
+
+### Personality Traits and Attitudes Toward Artificial Intelligence
+
+**Research Stream:** AI, Data Science & Education
+
+**Status:** Ongoing
+
+**Methods:** Meta-Analysis · Research Synthesis
+
+This meta-analysis examines the overall relationship between personality traits and attitudes toward artificial intelligence.
+
+The project synthesizes empirical evidence across studies to determine the strength and consistency of associations between individual differences and how people perceive, accept, trust, or respond to AI.
+
+The broader goal is to contribute to our understanding of the human factors that shape AI adoption and human--AI interaction.
+
+**Key themes:** Personality · AI attitudes · Technology adoption · Human--AI interaction · Meta-analysis
+
+[View Project →](projects/personality-ai-meta-analysis.qmd)
+
+:::
+
+::: {.project-feature-card}
+
+<span class="project-label">Bibliometrics</span>
+
+### Retrieval-Augmented Generation for Large Language Models
+
+**Research Stream:** Science of Research & Emerging AI
+
+**Status:** Ongoing
+
+**Methods:** Bibliometric Analysis · Science Mapping · Computational Text Analysis
+
+This project examines the development and intellectual structure of research on **retrieval-augmented generation for large language models**.
+
+The study investigates publication trends, influential authors and institutions, international collaboration, citation structures, and emerging research themes.
+
+A central methodological contribution is the development of a comprehensive and reproducible search and screening strategy using OpenAlex metadata rather than relying exclusively on the exact phrase "retrieval-augmented generation."
+
+**Key themes:** RAG · Large language models · Bibliometrics · OpenAlex · Emerging AI
+
+[View Project →](projects/rag-bibliometrics.qmd)
+
+:::
+
+::: {.project-feature-card}
+
+<span class="project-label">Human-Centered AI</span>
+
+### Human--AI Decision-Making
+
+**Research Stream:** AI, Data Science & Education
+
+**Status:** Emerging
+
+**Methods:** Bibliometric Analysis · Science Mapping
+
+This research explores the evolving intellectual landscape of human--AI decision-making.
+
+The project examines themes such as trust, explainability, accountability, uncertainty, human oversight, decision quality, and governance to understand how scholarship conceptualizes collaboration between humans and intelligent systems.
+
+The long-term goal is to contribute to a broader research program examining when and how human--AI collaboration improves decision-making.
+
+**Key themes:** Human--AI collaboration · Decision-making · Trust · Explainability · Governance
+
+[View Project →](projects/human-ai-decision-making.qmd)
+
+:::
+
+::: {.project-feature-card}
+
+<span class="project-label">Health Analytics</span>
+
+### Sleep and Metabolic Health
+
+**Research Stream:** Health & Wellness Analytics
+
+**Methods:** Population Health Analytics · Regression · Bayesian Analysis
+
+This research examines relationships among sleep characteristics and indicators of metabolic health using large-scale population health data.
+
+The work considers whether sleep quality, sleep duration, and daytime functioning provide different insights into health risk and explores how analytical evidence can inform the prioritization of health indicators.
+
+A broader goal of this research is to move beyond a singular focus on hours slept toward a multidimensional understanding of sleep and health.
+
+**Key themes:** Sleep quality · Sleep duration · Metabolic health · Population health · Bayesian analysis
+
+[View Project →](projects/sleep-metabolic-health.qmd)
+
+:::
+
+::: {.project-feature-card}
+
+<span class="project-label">Open Science</span>
+
+### Reproducible Bibliometric Research Workflow
+
+**Research Stream:** Science of Research & Emerging AI
+
+**Status:** In Development
+
+**Methods:** Bibliometrics · Computational Research · Open Science
+
+This project focuses on developing a robust and reusable workflow for conducting bibliometric research.
+
+The workflow integrates data retrieval, screening, cleaning, analysis, visualization, documentation, and reproducibility using tools such as **OpenAlex, R, Bibliometrix, VOSviewer, GitHub, and Quarto**.
+
+The long-term goal is to develop a transparent methodological framework that can support future bibliometric studies and potentially serve as the foundation for a methodological publication.
+
+**Key themes:** Reproducible research · Bibliometrics · Open science · GitHub · Research workflows
+
+[View Project →](projects/reproducible-bibliometrics.qmd)
+
+:::
+
+:::
+
+---
+
+## Additional Research Directions
+
+### Physical Activity, Sleep, and Psychological Wellness
+
+**Research Stream:** Health & Wellness Analytics
+
+**Methods:** Structural Equation Modeling · Latent Variable Modeling
+
+This project examines the relationships among physical activity, sleep, and psychological wellness using population-level health data.
+
+The research considers whether physical activity and sleep operate through interconnected or parallel protective mechanisms and explores the use of latent constructs to represent multidimensional psychological wellness.
+
+**Key themes:** Physical activity · Sleep · Psychological wellness · Health behavior · Structural equation modeling
+
+---
+
+### Complementary Health Approaches and Health Behaviors
+
+**Research Stream:** Health & Wellness Analytics
+
+**Methods:** Population Health Analytics · Survey Data Analysis
+
+This research uses national health survey data to examine patterns associated with complementary health approaches such as yoga, meditation, massage, acupuncture, chiropractic care, and related practices.
+
+The project explores relationships with health status, stress, chronic pain, healthcare access, physical activity, sleep, and other health behaviors.
+
+**Key themes:** Complementary health · Wellness · Health behaviors · Population health · Survey analytics
+
+---
+
+### Bayesian Modeling for Health and Epidemiological Decision-Making
+
+**Research Stream:** Health & Wellness Analytics / Advanced Quantitative Methods
+
+**Methods:** Bayesian Statistics · Bayesian Model Averaging
+
+This research explores how Bayesian methods can support evidence-based reasoning in health and epidemiological research.
+
+The work emphasizes posterior probabilities, model uncertainty, inclusion probabilities, and evidence-based comparison of competing explanations rather than relying exclusively on traditional significance testing.
+
+**Key themes:** Bayesian inference · Epidemiology · Model uncertainty · Health analytics · Decision-making
+
+---
+
+### Reproducible Meta-Analysis Workflow
+
+**Research Stream:** Advanced Quantitative Methods / Science of Research
+
+**Status:** Emerging
+
+**Methods:** Meta-Analysis · Research Synthesis · Open Science
+
+This project explores the development of a transparent and reusable workflow for conducting quantitative research synthesis.
+
+The workflow is envisioned to support literature searching, screening, coding, effect-size calculation, statistical modeling, sensitivity analysis, visualization, and reproducible reporting.
+
+The goal is to strengthen transparency and consistency across meta-analytic research projects.
+
+**Key themes:** Meta-analysis · Evidence synthesis · Reproducibility · Open science · Research methods
+
+---
+
+## Emerging AI Research
+
+### Agentic AI and the Future of Research
+
+**Research Stream:** Science of Research & Emerging AI
+
+**Status:** Emerging Research Direction
+
+As artificial intelligence systems become increasingly capable of planning, reasoning across multiple steps, using tools, and adapting their actions based on feedback, new questions are emerging about the role of AI agents in scientific research.
+
+This emerging research direction explores how agentic AI may influence the research lifecycle, including:
+
+- Literature discovery
+- Evidence synthesis
+- Hypothesis development
+- Research design
+- Data analysis
+- Reproducibility
+- Scientific communication
+- Human oversight and research governance
+
+A central question motivating this work is:
+
+> **How can human researchers and increasingly autonomous AI systems collaborate while preserving scientific rigor, transparency, accountability, and human judgment?**
+
+This area represents a longer-term direction for my research program and the [INSIGHT Lab](lab.qmd).
+
+---
+
+## Project Development Philosophy
+
+I view research projects as part of a broader and evolving scholarly program rather than as isolated studies.
+
+Where appropriate, projects are developed through a reproducible lifecycle:
+
+> **Research Question → Theory → Protocol → Data → Analysis → Evidence → Publication → Open Research Outputs**
+
+Projects may incorporate:
+
+- Pre-registration and research protocols
+- Systematic literature searches
+- Transparent inclusion and exclusion criteria
+- Reproducible data preparation
+- Version-controlled analytical code
+- Sensitivity and robustness analyses
+- Open Science Framework documentation
+- GitHub repositories
+- Quarto-based research reports
+- Peer-reviewed publications and conference presentations
+
+The goal is to create research that can be understood, evaluated, reproduced, and extended by others.
+
+---
+
+## Tools & Research Infrastructure
+
+Depending on the project, my research workflows may incorporate:
+
+**Data Science & Programming**
+
+R · Python · SQL · SAS · Stata
+
+**Statistical Analysis**
+
+JASP · Jamovi · R · Stata · SAS
+
+**Data Visualization & Decision Support**
+
+Power BI · R · Python
+
+**Research Synthesis**
+
+Bibliometrix · VOSviewer · OpenAlex
+
+**Reproducible Research**
+
+Git · GitHub · Quarto · OSF
+
+The choice of technology is guided by the research question, methodological requirements, and goals for transparency and reproducibility.
+
+---
+
+## Opportunities for Collaboration
+
+Many of these projects are designed to support interdisciplinary collaboration and student participation.
+
+Potential collaborators may include:
+
+- Faculty researchers
+- Doctoral researchers
+- Graduate students
+- Data scientists
+- Health researchers
+- Education researchers
+- Industry professionals
+- International research partners
+
+As the [INSIGHT Lab](lab.qmd) develops, selected projects may provide opportunities for doctoral students and graduate researchers to contribute to data analysis, literature synthesis, research programming, conference presentations, and manuscript development.
+
+---
+
+## Research Outputs
+
+As these projects develop, this page will connect directly to available research outputs:
+
+**Publications** · **Preprints** · **Conference Presentations** · **GitHub Repositories** · **OSF Projects** · **Data** · **Code**
+
+[View Publications →](publications.qmd)
+
+[Explore the INSIGHT Lab →](lab.qmd)
+
+[Learn About My Research →](research.qmd)

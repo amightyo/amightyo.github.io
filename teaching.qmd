@@ -1,0 +1,346 @@
+---
+title: "Teaching"
+page-layout: full
+---
+
+# Teaching
+
+## Developing Analytical Thinkers, Responsible AI Users, and Independent Researchers
+
+My teaching philosophy is grounded in the belief that students learn best when they can connect **theory, analytical reasoning, practical application, and reflection**.
+
+I aim to create learning environments where students do more than use analytical tools. I want them to understand why a method is appropriate, how to evaluate evidence critically, how to communicate findings clearly, and how to make responsible decisions with data and artificial intelligence.
+
+My teaching interests span **data science, artificial intelligence, analytics, research methods, advanced quantitative methods, and doctoral education**.
+
+---
+
+## Fall 2026
+
+### ANLY 735 – Research Seminar in Predictive AI
+
+This research-centered seminar examines current scholarship in machine learning and predictive artificial intelligence.
+
+Students engage with scholarly literature, evaluate emerging methods, lead discussions, and develop their ability to communicate research critically and clearly.
+
+Topics may include:
+
+- Machine learning research
+- Predictive modeling
+- Neural networks
+- Reinforcement learning
+- Experimental methods in machine learning
+- Computational learning theory
+- Evolutionary computation
+- Emerging AI methods
+- Research communication
+- Reproducible analytical workflows
+
+The course also introduces students to tools and practices that support modern analytical research, including **Python, R, Power BI, GitHub, and Quarto**, where appropriate.
+
+A central goal of the course is to help students move from being consumers of AI tools toward becoming thoughtful researchers who can critically evaluate, apply, and communicate developments in predictive artificial intelligence.
+
+---
+
+### ANLY 799 – Doctoral Studies
+
+ANLY 799 provides a structured environment for doctoral research and scholarly development.
+
+My role in doctoral studies centers on helping students develop research that is:
+
+- Theoretically grounded
+- Methodologically rigorous
+- Clearly aligned
+- Reproducible where appropriate
+- Relevant to both scholarship and practice
+
+I work with doctoral researchers to strengthen the alignment among:
+
+> **Problem → Purpose → Theory → Research Questions → Methodology → Evidence → Contribution**
+
+The goal is not simply to complete a dissertation, but to help students develop the habits of mind and research practices needed to become independent scholars.
+
+[Learn More About Doctoral Mentorship →](mentorship.qmd)
+
+---
+
+## Areas I Teach
+
+My teaching experience and interests include:
+
+::: {.grid}
+
+::: {.g-col-12 .g-col-md-4}
+
+### Artificial Intelligence
+
+- Predictive AI
+- Machine learning
+- Generative AI
+- Responsible AI
+- Human--AI interaction
+
+:::
+
+::: {.g-col-12 .g-col-md-4}
+
+### Data Science & Analytics
+
+- Data analytics
+- Predictive modeling
+- Business analytics
+- Data visualization
+- SQL and data management
+
+:::
+
+::: {.g-col-12 .g-col-md-4}
+
+### Quantitative Methods
+
+- Structural equation modeling
+- Bayesian statistics
+- Regression analysis
+- Meta-analysis
+- Multivariate methods
+
+:::
+
+::: {.g-col-12 .g-col-md-4}
+
+### Research Methods
+
+- Quantitative research design
+- Research alignment
+- Reproducible research
+- Literature synthesis
+- Open science
+
+:::
+
+::: {.g-col-12 .g-col-md-4}
+
+### Health Analytics
+
+- Biostatistics
+- Epidemiology
+- Population health analytics
+- Health informatics
+- Predictive health modeling
+
+:::
+
+::: {.g-col-12 .g-col-md-4}
+
+### Doctoral Education
+
+- Dissertation development
+- Research design
+- Theory development
+- Advanced methodology
+- Scholarly writing
+
+:::
+
+:::
+
+---
+
+## My Teaching Philosophy
+
+I approach teaching through four core principles.
+
+### Learning Through Application
+
+Students learn analytical concepts more deeply when they apply them to authentic problems and real datasets.
+
+Whenever possible, I use examples that require students to make decisions rather than simply calculate answers.
+
+### Critical Thinking Before Tools
+
+Technology changes quickly. Analytical reasoning remains essential.
+
+I encourage students to ask:
+
+- What is the research or business question?
+- What type of data do we have?
+- What assumptions are being made?
+- Why is this method appropriate?
+- What does the result actually mean?
+- What alternative explanation might exist?
+
+The goal is to ensure that students understand the reasoning behind an analysis rather than simply following a sequence of software commands.
+
+### Reproducibility and Transparency
+
+Modern data science requires more than producing a final result.
+
+Students should learn how to document their analytical decisions, organize code, use version control, and create workflows that others can understand and reproduce.
+
+I increasingly incorporate tools such as **GitHub and Quarto** to help students develop these habits.
+
+### Responsible Use of Artificial Intelligence
+
+Artificial intelligence is becoming part of how students learn, analyze data, write code, and conduct research.
+
+Rather than treating AI only as a prohibited tool or an automatic solution, I encourage students to develop the judgment needed to use AI responsibly.
+
+Students should be able to:
+
+- Verify AI-generated information
+- Evaluate the quality of AI-generated code
+- Identify potential bias
+- Protect sensitive information
+- Document AI use where appropriate
+- Maintain intellectual ownership of their work
+- Recognize when human judgment is essential
+
+---
+
+## Teaching Data Science and AI
+
+My approach to teaching data science emphasizes the connection among:
+
+> **Question → Data → Analysis → Evidence → Decision**
+
+Students should understand that a technically sophisticated model is not automatically a useful model.
+
+I encourage them to consider:
+
+- Predictive performance
+- Interpretability
+- Generalizability
+- Bias and fairness
+- Practical relevance
+- Ethical consequences
+
+In AI-focused courses, I also emphasize the distinction among different forms of artificial intelligence, including predictive, generative, and increasingly agentic systems.
+
+The goal is to help students understand both what these systems can do and the conditions under which they should be trusted.
+
+---
+
+## Reproducible Learning with GitHub and Quarto
+
+One area I am increasingly integrating into my teaching is reproducible analytical practice.
+
+Students can use **GitHub** to:
+
+- Manage analytical projects
+- Track changes
+- Collaborate with others
+- Review contributions
+- Practice version control
+- Build a public portfolio
+
+Students can use **Quarto** to:
+
+- Integrate narrative, code, and results
+- Create reproducible reports
+- Develop presentations
+- Build websites
+- Produce research documents
+
+Together, these tools help students learn practices that extend beyond a single course and prepare them for collaborative research and professional data science environments.
+
+---
+
+## Technology in My Teaching
+
+Depending on the learning objectives, my courses may incorporate:
+
+**Programming & Data Science**
+
+Python · R · SQL
+
+**Statistical Analysis**
+
+R · SAS · Stata · JASP · Jamovi
+
+**Visualization & Decision Support**
+
+Power BI · Tableau · Excel
+
+**Machine Learning**
+
+Python · R · Azure Machine Learning
+
+**Research & Reproducibility**
+
+Git · GitHub · Quarto · OSF
+
+I select tools based on the learning objective rather than teaching technology for its own sake.
+
+---
+
+## Learning Through Real-World Problems
+
+I frequently use real or realistic datasets to help students connect analytical methods with practical decisions.
+
+Examples may include:
+
+- Predicting student success
+- Evaluating health outcomes
+- Modeling customer behavior
+- Identifying risk
+- Comparing machine learning models
+- Evaluating classification thresholds
+- Investigating relationships among latent constructs
+- Examining uncertainty through Bayesian methods
+
+These applications encourage students to consider not only whether a model works, but also whether it answers the right question.
+
+---
+
+## Doctoral Education
+
+Doctoral education requires a different type of teaching.
+
+Rather than providing students with predetermined solutions, doctoral mentorship requires helping them develop the ability to:
+
+- Define important research problems
+- Identify meaningful gaps
+- Construct theoretical arguments
+- Develop aligned research questions
+- Select defensible methods
+- Interpret findings cautiously
+- Recognize limitations
+- Communicate scholarly contributions
+
+My goal is to challenge doctoral researchers while also creating a supportive environment in which they can develop confidence and independence.
+
+[Explore My Mentorship Approach →](mentorship.qmd)
+
+---
+
+## Teaching, Research, and Mentorship
+
+I view teaching, research, and mentorship as interconnected rather than separate academic responsibilities.
+
+My research informs what I teach.
+
+My teaching helps me identify new research questions.
+
+My mentorship helps emerging scholars contribute new knowledge.
+
+This connection is also central to the vision of the [INSIGHT Lab](lab.qmd), where students and researchers can engage in collaborative, interdisciplinary, and reproducible scholarship.
+
+---
+
+## Looking Ahead
+
+As I begin my work at Harrisburg University, I look forward to continuing to develop learning experiences that help students become stronger analytical thinkers, responsible users of artificial intelligence, and confident researchers.
+
+Over time, this page will also include selected:
+
+- Course materials
+- Teaching demonstrations
+- Open educational resources
+- GitHub repositories
+- Quarto tutorials
+- Data science exercises
+- Research guides
+
+[Explore My Research →](research.qmd)
+
+[Explore the INSIGHT Lab →](lab.qmd)
