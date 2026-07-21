@@ -4,6 +4,13 @@ project:
 website:
   title: "Dr. Itauma Itauma"
   site-url: "https://amightyo.github.io"
+  description: "Academic website of Dr. Itauma Itauma, Data Scientist, Professor, Researcher, and Academic Leader. Research in artificial intelligence, data science, education analytics, health analytics, and advanced quantitative methods."
+
+  open-graph:
+    image: images/social-preview.png
+
+  twitter-card:
+    image: images/social-preview.png
 
   navbar:
     background: light
@@ -63,5 +70,7 @@ format:
     css: styles.css
     toc: false
     smooth-scroll: true
+    include-in-header:
+      - includes/person-schema.html
 
 editor: visual

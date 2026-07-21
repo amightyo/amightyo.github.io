@@ -1,5 +1,6 @@
 ---
-title: "Projects"
+title: "Research Projects"
+description: "Selected research projects by Dr. Itauma Itauma spanning artificial intelligence, human-AI collaboration, health analytics, meta-analysis, bibliometrics, and reproducible research."
 page-layout: full
 ---
 

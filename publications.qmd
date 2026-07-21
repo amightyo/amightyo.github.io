@@ -1,5 +1,6 @@
 ---
 title: "Publications"
+description: "Publications and scholarly research outputs by Dr. Itauma Itauma, including research in data science, artificial intelligence, education, health analytics, and advanced quantitative methods."
 page-layout: full
 ---
 
