@@ -2,6 +2,11 @@
 title: "Dr. Itauma Itauma"
 description: "Dr. Itauma Itauma is a Data Scientist, Professor, Researcher, and Academic Leader whose research spans artificial intelligence, data science, education analytics, health analytics, and advanced quantitative methods."
 page-layout: full
+title-block-banner: false
+title-block-style: none
+format:
+  html:
+    title-block: false
 ---
 
 ::: {.hero-section}
@@ -177,7 +182,7 @@ Developing transparent workflows for bibliometrics, meta-analysis, evidence synt
 
 ## About My Work
 
-My scholarship spans data science, artificial intelligence, health analytics, learning analytics, and advanced quantitative research methods. I am particularly interested in work that connects rigorous analytical methods with meaningful human and organizational outcomes.
+My scholarship spans artificial intelligence, data science, education and learning analytics, health and wellness analytics, and advanced quantitative methods. I am particularly interested in research that connects rigorous analytical methods with meaningful human, educational, organizational, and health outcomes.
 
 I also mentor doctoral researchers and emerging scholars in developing research that is theoretically grounded, methodologically sound, reproducible, and positioned to make a practical contribution.
 
