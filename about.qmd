@@ -1,10 +1,6 @@
 ---
-title: "About"
+pagetitle: "About"
 page-layout: article
-
-format:
-  html:
-    title-block: false
 ---
 
 # About Me

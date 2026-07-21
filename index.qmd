@@ -1,11 +1,9 @@
 ---
-title: "Dr. Itauma Itauma"
-description: "Dr. Itauma Itauma is a Data Scientist, Professor, Researcher, and Academic Leader whose research spans artificial intelligence, data science, education analytics, health analytics, and advanced quantitative methods."
-page-layout: full
+pagetitle: "Dr. Itauma Itauma | Data Scientist, Professor & Researcher"
 
-format:
-  html:
-    title-block: false
+description: "Dr. Itauma Itauma is a Data Scientist, Professor, Researcher, and Academic Leader whose research spans artificial intelligence, data science, education analytics, health analytics, and advanced quantitative methods."
+
+page-layout: full
 ---
 
 ::: {.hero-section}

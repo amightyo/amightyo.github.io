@@ -1,11 +1,7 @@
 ---
-title: "Mentorship"
+pagetitle: "Mentorship"
 description: "Doctoral mentorship and research development activities led by Dr. Itauma Itauma, emphasizing rigorous research, analytical reasoning, scholarly development, and student success."
 page-layout: full
-
-format:
-  html:
-    title-block: false
 ---
 
 # Mentorship

@@ -1,10 +1,6 @@
 ---
-title: "Talks & Service"
+pagetitle: "Talks & Service"
 page-layout: full
-
-format:
-  html:
-    title-block: false
 ---
 
 # Talks & Service

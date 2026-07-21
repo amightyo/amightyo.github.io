@@ -1,11 +1,7 @@
 ---
-title: "Curriculum Vitae"
+pagetitle: "Curriculum Vitae"
 description: "Curriculum vitae of Dr. Itauma Itauma, Data Scientist, Professor, Researcher, and Academic Leader."
 page-layout: full
-
-format:
-  html:
-    title-block: false
 ---
 
 # Curriculum Vitae

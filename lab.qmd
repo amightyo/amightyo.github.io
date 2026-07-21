@@ -1,11 +1,9 @@
 ---
-title: "INSIGHT Lab"
-description: "The INSIGHT Lab is an emerging interdisciplinary research initiative led by Dr. Itauma Itauma connecting artificial intelligence, data science, education, health analytics, and advanced quantitative methods."
-page-layout: full
+pagetitle: "INSIGHT Lab"
 
-format:
-  html:
-    title-block: false
+description: "The INSIGHT Lab is an emerging interdisciplinary research initiative connecting artificial intelligence, data science, education, health analytics, and advanced quantitative methods."
+
+page-layout: full
 ---
 
 ::: {.insight-masthead}
