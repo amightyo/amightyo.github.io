@@ -1,71 +1,71 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://amightyo.github.io/mentorship.html</loc>
-    <lastmod>2026-07-21T19:09:45.020Z</lastmod>
-  </url>
-  <url>
-    <loc>https://amightyo.github.io/index.html</loc>
-    <lastmod>2026-07-21T19:09:45.020Z</lastmod>
-  </url>
-  <url>
     <loc>https://amightyo.github.io/teaching.html</loc>
-    <lastmod>2026-07-21T19:09:45.020Z</lastmod>
+    <lastmod>2026-07-21T18:57:30.635Z</lastmod>
   </url>
   <url>
     <loc>https://amightyo.github.io/research.html</loc>
-    <lastmod>2026-07-21T19:09:45.020Z</lastmod>
-  </url>
-  <url>
-    <loc>https://amightyo.github.io/cv.html</loc>
-    <lastmod>2026-07-21T19:09:44.982Z</lastmod>
+    <lastmod>2026-07-21T18:57:14.664Z</lastmod>
   </url>
   <url>
     <loc>https://amightyo.github.io/projects.html</loc>
-    <lastmod>2026-07-21T19:09:45.020Z</lastmod>
+    <lastmod>2026-07-21T18:57:54.354Z</lastmod>
   </url>
   <url>
     <loc>https://amightyo.github.io/projects/reproducible-bibliometrics.html</loc>
-    <lastmod>2026-07-21T19:09:45.020Z</lastmod>
-  </url>
-  <url>
-    <loc>https://amightyo.github.io/projects/ai-attitudes.html</loc>
-    <lastmod>2026-07-21T19:09:45.020Z</lastmod>
-  </url>
-  <url>
-    <loc>https://amightyo.github.io/projects/sleep-metabolic-health.html</loc>
-    <lastmod>2026-07-21T19:09:45.020Z</lastmod>
-  </url>
-  <url>
-    <loc>https://amightyo.github.io/projects/human-ai-decision-making.html</loc>
-    <lastmod>2026-07-21T19:09:45.020Z</lastmod>
-  </url>
-  <url>
-    <loc>https://amightyo.github.io/projects/rag-bibliometrics.html</loc>
-    <lastmod>2026-07-21T19:09:45.020Z</lastmod>
+    <lastmod>2026-07-20T18:19:36.877Z</lastmod>
   </url>
   <url>
     <loc>https://amightyo.github.io/projects/personality-ai-meta-analysis.html</loc>
-    <lastmod>2026-07-21T19:09:45.020Z</lastmod>
+    <lastmod>2026-07-20T18:19:36.875Z</lastmod>
   </url>
   <url>
-    <loc>https://amightyo.github.io/talks.html</loc>
-    <lastmod>2026-07-21T19:09:45.020Z</lastmod>
-  </url>
-  <url>
-    <loc>https://amightyo.github.io/publications.html</loc>
-    <lastmod>2026-07-21T19:09:45.020Z</lastmod>
-  </url>
-  <url>
-    <loc>https://amightyo.github.io/about.html</loc>
-    <lastmod>2026-07-21T19:09:44.982Z</lastmod>
+    <loc>https://amightyo.github.io/projects/ai-attitudes.html</loc>
+    <lastmod>2026-07-20T18:19:36.872Z</lastmod>
   </url>
   <url>
     <loc>https://amightyo.github.io/lab.html</loc>
-    <lastmod>2026-07-21T19:09:45.020Z</lastmod>
+    <lastmod>2026-07-21T18:58:05.616Z</lastmod>
   </url>
   <url>
     <loc>https://amightyo.github.io/generated/orcid-publications.html</loc>
-    <lastmod>2026-07-21T19:09:44.983Z</lastmod>
+    <lastmod>2026-07-21T00:23:16.749Z</lastmod>
+  </url>
+  <url>
+    <loc>https://amightyo.github.io/about.html</loc>
+    <lastmod>2026-07-21T18:58:21.314Z</lastmod>
+  </url>
+  <url>
+    <loc>https://amightyo.github.io/cv.html</loc>
+    <lastmod>2026-07-21T18:58:15.872Z</lastmod>
+  </url>
+  <url>
+    <loc>https://amightyo.github.io/index.html</loc>
+    <lastmod>2026-07-21T18:57:01.850Z</lastmod>
+  </url>
+  <url>
+    <loc>https://amightyo.github.io/mentorship.html</loc>
+    <lastmod>2026-07-21T18:58:00.794Z</lastmod>
+  </url>
+  <url>
+    <loc>https://amightyo.github.io/projects/human-ai-decision-making.html</loc>
+    <lastmod>2026-07-20T18:19:36.873Z</lastmod>
+  </url>
+  <url>
+    <loc>https://amightyo.github.io/projects/rag-bibliometrics.html</loc>
+    <lastmod>2026-07-20T18:19:36.877Z</lastmod>
+  </url>
+  <url>
+    <loc>https://amightyo.github.io/projects/sleep-metabolic-health.html</loc>
+    <lastmod>2026-07-20T18:19:36.878Z</lastmod>
+  </url>
+  <url>
+    <loc>https://amightyo.github.io/publications.html</loc>
+    <lastmod>2026-07-21T19:03:06.770Z</lastmod>
+  </url>
+  <url>
+    <loc>https://amightyo.github.io/talks.html</loc>
+    <lastmod>2026-07-21T18:57:42.317Z</lastmod>
   </url>
 </urlset>
