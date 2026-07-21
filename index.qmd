@@ -10,7 +10,7 @@ page-layout: full
 
 ::: {.hero-text}
 
-# Dr. Mighty Itauma Itauma
+# Dr. Itauma Itauma
 
 ## Data Scientist · Professor · Researcher · Academic Leader
 
