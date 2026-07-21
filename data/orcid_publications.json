@@ -1,0 +1,44 @@
+[
+  {
+    "title": "Sleep Quality and Daytime Functioning as Predictors of Metabolic Risk: A Structural Equation Modeling Analysis of NHANES Data",
+    "year": "2026",
+    "type": "journal-article",
+    "journal": "International Journal of Digital Health and Telemedicine",
+    "doi": "10.51137/wrp.ijdht.782"
+  },
+  {
+    "title": "Transforming Project Management through Data Analytics and Generative AI",
+    "year": "2025",
+    "type": "journal-article",
+    "journal": "Empirical Economics Letters",
+    "doi": "10.5281/ZENODO.18866470"
+  },
+  {
+    "title": "AI Scribes: Boosting Physician Efficiency in Clinical Documentation",
+    "year": "2024",
+    "type": "journal-article",
+    "journal": "International Journal on Bioinformatics &amp; Biosciences",
+    "doi": "10.5121/ijbb.2024.14102"
+  },
+  {
+    "title": "Unsupervised Learning and Image Classification in High Performance Computing Cluster",
+    "year": "2015",
+    "type": "conference-paper",
+    "journal": "2015 IEEE 14th International Conference on Machine Learning and Applications (ICMLA)",
+    "doi": "10.1109/icmla.2015.83"
+  },
+  {
+    "title": "Gesture imitation using machine learning techniques",
+    "year": "2012",
+    "type": "conference-paper",
+    "journal": "2012 20th Signal Processing and Communications Applications Conference (SIU)",
+    "doi": "10.1109/siu.2012.6204822"
+  },
+  {
+    "title": "Humanoid robot assisted interactive sign language tutoring game",
+    "year": "2011",
+    "type": "conference-paper",
+    "journal": "2011 IEEE International Conference on Robotics and Biomimetics",
+    "doi": "10.1109/robio.2011.6181630"
+  }
+]

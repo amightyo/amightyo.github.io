@@ -210,6 +210,8 @@ This approach supports the broader research philosophy of the [INSIGHT Lab](lab.
 
 ---
 
+{{< include generated/orcid-publications.qmd >}}
+
 [Explore My Research →](research.qmd)
 
 [View Research Projects →](projects.qmd)

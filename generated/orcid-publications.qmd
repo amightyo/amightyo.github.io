@@ -1,0 +1,63 @@
+## ORCID-Synchronized Works
+
+The works below are synchronized from my public ORCID record.
+
+### 2026
+
+**Sleep Quality and Daytime Functioning as Predictors of Metabolic Risk: A Structural Equation Modeling Analysis of NHANES Data**
+
+Journal-Article · *International Journal of Digital Health and Telemedicine*
+
+[View DOI](https://doi.org/10.51137/wrp.ijdht.782)
+
+---
+
+### 2025
+
+**Transforming Project Management through Data Analytics and Generative AI**
+
+Journal-Article · *Empirical Economics Letters*
+
+[View DOI](https://doi.org/10.5281/ZENODO.18866470)
+
+---
+
+### 2024
+
+**AI Scribes: Boosting Physician Efficiency in Clinical Documentation**
+
+Journal-Article · *International Journal on Bioinformatics &amp; Biosciences*
+
+[View DOI](https://doi.org/10.5121/ijbb.2024.14102)
+
+---
+
+### 2015
+
+**Unsupervised Learning and Image Classification in High Performance Computing Cluster**
+
+Conference-Paper · *2015 IEEE 14th International Conference on Machine Learning and Applications (ICMLA)*
+
+[View DOI](https://doi.org/10.1109/icmla.2015.83)
+
+---
+
+### 2012
+
+**Gesture imitation using machine learning techniques**
+
+Conference-Paper · *2012 20th Signal Processing and Communications Applications Conference (SIU)*
+
+[View DOI](https://doi.org/10.1109/siu.2012.6204822)
+
+---
+
+### 2011
+
+**Humanoid robot assisted interactive sign language tutoring game**
+
+Conference-Paper · *2011 IEEE International Conference on Robotics and Biomimetics*
+
+[View DOI](https://doi.org/10.1109/robio.2011.6181630)
+
+---
