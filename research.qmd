@@ -2,6 +2,10 @@
 title: "Research"
 description: "Research by Dr. Itauma Itauma in artificial intelligence, data science, education analytics, health and wellness analytics, advanced quantitative methods, bibliometrics, and open science."
 page-layout: full
+
+format:
+  html:
+    title-block: false
 ---
 
 # Research

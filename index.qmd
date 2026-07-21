@@ -2,8 +2,7 @@
 title: "Dr. Itauma Itauma"
 description: "Dr. Itauma Itauma is a Data Scientist, Professor, Researcher, and Academic Leader whose research spans artificial intelligence, data science, education analytics, health analytics, and advanced quantitative methods."
 page-layout: full
-title-block-banner: false
-title-block-style: none
+
 format:
   html:
     title-block: false

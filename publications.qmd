@@ -2,6 +2,10 @@
 title: "Publications"
 description: "Publications and scholarly research outputs by Dr. Itauma Itauma, including research in data science, artificial intelligence, education, health analytics, and advanced quantitative methods."
 page-layout: full
+
+format:
+  html:
+    title-block: false
 ---
 
 # Publications & Scholarly Contributions
@@ -19,15 +23,6 @@ For the most current record of my scholarly work, visit my external research pro
 ---
 
 ## Peer-Reviewed Journal Articles
-
-### Generative AI and Project Communication
-
-**Srikanth, S., & Itauma, I. (2026).**  
-Leveraging Generative AI as a Socio-Technical Mediator in Global Project Communication and Conflict Management.
-
-*Accepted for presentation at the 3rd International Business Analytics Conference.*
-
----
 
 ### Data Analytics, Generative AI, and Project Management
 
@@ -75,6 +70,16 @@ This work emerged from my graduate research in computer science and reflects my 
 ---
 
 ## Selected Conference Proceedings
+
+
+### Generative AI and Project Communication
+
+**Srikanth, S., & Itauma, I. (2026).**  
+Leveraging Generative AI as a Socio-Technical Mediator in Global Project Communication and Conflict Management.
+
+*Proceedings of the 3rd International Business Analytics Conference.*
+
+---
 
 ### Recruitment Analytics and Machine Learning
 

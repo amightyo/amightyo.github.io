@@ -2,6 +2,10 @@
 title: "Teaching"
 description: "Teaching portfolio of Dr. Itauma Itauma in data science, analytics, predictive artificial intelligence, doctoral research, statistical methods, and applied analytics."
 page-layout: full
+
+format:
+  html:
+    title-block: false
 ---
 
 # Teaching
