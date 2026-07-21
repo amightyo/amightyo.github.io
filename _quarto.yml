@@ -72,5 +72,6 @@ format:
     smooth-scroll: true
     include-in-header:
       - includes/person-schema.html
+      - includes/google-verification.html
 
 editor: visual
