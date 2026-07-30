@@ -13,7 +13,7 @@ page-layout: full
 Associate Professor of Data Science and Analytics  
 Harrisburg University of Science and Technology
 
-[Download Résumé (PDF)](files/Itauma_Itauma_Resume.pdf){.btn .btn-primary}
+[Download CV (PDF)](files/Itauma_Itauma_PhD_CV.pdf){.btn .btn-primary}
 
 [Google Scholar](https://scholar.google.com/citations?user=v0-zAJkAAAAJ&hl=en){.btn .btn-outline-primary}
 [ORCID](https://orcid.org/0009-0000-8835-5292){.btn .btn-outline-primary}
@@ -390,4 +390,4 @@ OpenAlex · Bibliometrix · VOSviewer
 
 ---
 
-[Download Résumé (PDF)](files/Itauma_Itauma_Resume.pdf){.btn .btn-primary}
+[Download CV (PDF)](files/Itauma_Itauma_PhD_CV.pdf){.btn .btn-primary}
