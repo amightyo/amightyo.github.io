@@ -4,6 +4,14 @@ The works below are synchronized from my public ORCID record.
 
 ### 2026
 
+**Machine Learning Using Python: Foundations, Algorithms, Applications, and Reproducible Research**
+
+Book
+
+[View DOI](https://doi.org/10.5281/ZENODO.22136083)
+
+---
+
 **Sleep Quality and Daytime Functioning as Predictors of Metabolic Risk: A Structural Equation Modeling Analysis of NHANES Data**
 
 Journal-Article · *International Journal of Digital Health and Telemedicine*
@@ -29,6 +37,14 @@ Journal-Article · *Empirical Economics Letters*
 Journal-Article · *International Journal on Bioinformatics &amp; Biosciences*
 
 [View DOI](https://doi.org/10.5121/ijbb.2024.14102)
+
+---
+
+**Factors Predicting Mathematics and Science Motivation Among Minority Female High School Students**
+
+Conference-Proceedings · *Proceedings of the 2024 AERA Annual Meeting*
+
+[View DOI](https://doi.org/10.3102/2104307)
 
 ---
 

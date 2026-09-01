@@ -1,5 +1,12 @@
 [
   {
+    "title": "Machine Learning Using Python: Foundations, Algorithms, Applications, and Reproducible Research",
+    "year": "2026",
+    "type": "book",
+    "journal": null,
+    "doi": "10.5281/ZENODO.22136083"
+  },
+  {
     "title": "Sleep Quality and Daytime Functioning as Predictors of Metabolic Risk: A Structural Equation Modeling Analysis of NHANES Data",
     "year": "2026",
     "type": "journal-article",
@@ -19,6 +26,13 @@
     "type": "journal-article",
     "journal": "International Journal on Bioinformatics &amp; Biosciences",
     "doi": "10.5121/ijbb.2024.14102"
+  },
+  {
+    "title": "Factors Predicting Mathematics and Science Motivation Among Minority Female High School Students",
+    "year": "2024",
+    "type": "conference-proceedings",
+    "journal": "Proceedings of the 2024 AERA Annual Meeting",
+    "doi": "10.3102/2104307"
   },
   {
     "title": "Unsupervised Learning and Image Classification in High Performance Computing Cluster",
